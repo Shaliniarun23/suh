@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,City,Income Bracket,Preferred Cuisines,Mocktail Preference,Cocktail Preference,Order Frequency,Satisfaction (1-5),Spend per Order,Repeat Order,Order Influence,Delivery Issues
+1,56,Male,Bangalore,<₹20k,"Thai, Continental",Minty Lime,Margarita,Occasionally,2,889.0,Yes,Friend Referral,Wrong Order
+2,46,Other,Delhi,₹60k–80k,"Chinese, Italian, Indian",Minty Lime,Margarita,Rarely,2,868.0,Yes,Google Search,Late Delivery
+3,32,Male,Hyderabad,₹40k–60k,"Indian, Continental, Italian",Minty Lime,Whiskey Sour,Occasionally,2,860.0,Yes,"Instagram, Zomato","High Price, Late Delivery"
+4,25,Female,Hyderabad,₹60k–80k,"Chinese, Italian",Minty Lime,Gin & Tonic,Occasionally,3,1142.0,Yes,Swiggy Ads,High Price
+5,38,Other,Chennai,₹60k–80k,"Indian, Mexican, Chinese",Virgin Mojito,Gin & Tonic,Rarely,2,1045.0,Yes,Instagram,"Wrong Order, None"
+6,56,Other,Hyderabad,₹20k–40k,"Italian, Indian, Chinese",Virgin Mojito,Rum Punch,Frequently,4,960.0,Yes,Friend Referral,Small Portion
+7,36,Other,Delhi,<₹20k,Mexican,Minty Lime,Rum Punch,Frequently,3,780.0,No,"Google Search, Zomato","Wrong Order, High Price"
+8,40,Other,Delhi,₹80k+,Chinese,Fruit Fizz,Margarita,Occasionally,5,966.0,Yes,Instagram,"High Price, Wrong Order"
+9,28,Female,Hyderabad,<₹20k,"Italian, Indian, Chinese",Virgin Mojito,Whiskey Sour,Rarely,1,1052.0,Yes,Zomato,"Wrong Order, Small Portion"
+10,28,Other,Delhi,₹80k+,"Chinese, Thai",Spicy Guava,Margarita,Frequently,2,1060.0,Yes,"Instagram, Friend Referral",Small Portion
+11,41,Other,Chennai,<₹20k,"Thai, Indian, Continental",Virgin Mojito,Rum Punch,Occasionally,5,1032.0,No,"Instagram, Friend Referral","None, Small Portion"
+12,53,Male,Mumbai,₹60k–80k,"Chinese, Indian",Spicy Guava,Whiskey Sour,Occasionally,4,815.0,No,"Zomato, Instagram, Swiggy Ads",Small Portion
+13,57,Other,Chennai,₹40k–60k,"Indian, Chinese",Minty Lime,Whiskey Sour,Rarely,1,519.0,No,Friend Referral,"Wrong Order, None"
+14,41,Female,Chennai,₹40k–60k,"Italian, Chinese, Mexican",Virgin Mojito,Rum Punch,Occasionally,5,1360.0,Yes,Friend Referral,"High Price, Wrong Order"
+15,20,Female,Delhi,₹20k–40k,Italian,Fruit Fizz,Gin & Tonic,Frequently,1,738.0,Yes,"Instagram, Zomato","Wrong Order, High Price"
+16,39,Female,Mumbai,₹80k+,"Indian, Chinese",Virgin Mojito,Gin & Tonic,Rarely,2,607.0,No,Friend Referral,Small Portion
+17,19,Female,Delhi,₹80k+,Thai,Virgin Mojito,Whiskey Sour,Frequently,4,1026.0,Yes,"Swiggy Ads, Google Search","Small Portion, Wrong Order"
+18,41,Other,Bangalore,₹80k+,Thai,Virgin Mojito,Margarita,Frequently,1,658.0,Yes,"Friend Referral, Swiggy Ads",High Price
+19,47,Other,Delhi,₹60k–80k,"Italian, Mexican, Continental",Minty Lime,Gin & Tonic,Frequently,5,839.0,No,"Zomato, Friend Referral","Late Delivery, Small Portion"
+20,55,Female,Delhi,₹80k+,Continental,Fruit Fizz,Margarita,Occasionally,2,1110.0,Yes,"Zomato, Google Search, Friend Referral","High Price, Late Delivery"
+21,19,Female,Delhi,₹40k–60k,"Italian, Mexican, Indian",Virgin Mojito,Gin & Tonic,Occasionally,2,1355.0,Yes,"Swiggy Ads, Friend Referral","High Price, Small Portion"
+22,38,Other,Mumbai,₹60k–80k,"Mexican, Continental",Fruit Fizz,Gin & Tonic,Frequently,5,1078.0,Yes,"Instagram, Friend Referral, Zomato","High Price, Late Delivery"
+23,50,Female,Delhi,<₹20k,"Chinese, Mexican",Minty Lime,Margarita,Frequently,5,912.0,Yes,"Zomato, Swiggy Ads","Small Portion, Wrong Order"
+24,29,Male,Mumbai,₹80k+,"Thai, Indian",Spicy Guava,Rum Punch,Rarely,1,990.0,Yes,Swiggy Ads,None
+25,39,Female,Hyderabad,₹80k+,"Continental, Mexican, Indian",Virgin Mojito,Gin & Tonic,Rarely,3,638.0,Yes,Friend Referral,Late Delivery
+26,42,Female,Bangalore,<₹20k,"Mexican, Chinese, Thai",Fruit Fizz,Gin & Tonic,Occasionally,2,910.0,No,Friend Referral,None
+27,44,Male,Mumbai,₹80k+,Continental,Fruit Fizz,Margarita,Occasionally,1,910.0,Yes,"Swiggy Ads, Instagram, Google Search","High Price, Late Delivery"
+28,59,Male,Hyderabad,<₹20k,Indian,Minty Lime,Rum Punch,Rarely,5,1031.0,No,"Zomato, Friend Referral",Small Portion
+29,45,Other,Mumbai,₹60k–80k,Mexican,Virgin Mojito,Gin & Tonic,Frequently,1,1388.0,Yes,Swiggy Ads,"Late Delivery, None"
+30,33,Other,Mumbai,₹40k–60k,Chinese,Spicy Guava,Gin & Tonic,Occasionally,5,613.0,Yes,Swiggy Ads,Late Delivery
+31,32,Male,Bangalore,<₹20k,"Italian, Chinese, Continental",Fruit Fizz,Rum Punch,Frequently,4,918.0,No,Friend Referral,Late Delivery
+32,20,Male,Chennai,₹20k–40k,"Continental, Mexican, Italian",Virgin Mojito,Gin & Tonic,Rarely,5,633.0,No,Instagram,"None, Small Portion"
+33,54,Other,Chennai,<₹20k,"Italian, Continental, Thai",Spicy Guava,Rum Punch,Occasionally,5,899.0,Yes,"Swiggy Ads, Instagram, Zomato",None
+34,24,Female,Mumbai,₹80k+,Indian,Fruit Fizz,Rum Punch,Occasionally,5,827.0,No,"Swiggy Ads, Instagram, Friend Referral",Wrong Order
+35,38,Male,Delhi,₹60k–80k,"Chinese, Indian",Fruit Fizz,Margarita,Rarely,3,701.0,No,"Swiggy Ads, Instagram, Friend Referral","High Price, Small Portion"
+36,26,Other,Hyderabad,₹60k–80k,"Mexican, Chinese, Thai",Spicy Guava,Whiskey Sour,Occasionally,5,1183.0,No,"Google Search, Friend Referral","Late Delivery, Wrong Order"
+37,56,Female,Delhi,<₹20k,"Indian, Mexican, Thai",Spicy Guava,Rum Punch,Rarely,2,1051.0,Yes,Instagram,Late Delivery
+38,35,Male,Delhi,₹40k–60k,Indian,Minty Lime,Margarita,Occasionally,2,1159.0,No,"Zomato, Friend Referral","None, High Price"
+39,21,Female,Mumbai,₹20k–40k,Indian,Virgin Mojito,Whiskey Sour,Rarely,1,894.0,No,Friend Referral,High Price
+40,42,Other,Mumbai,₹60k–80k,"Chinese, Indian",Virgin Mojito,Gin & Tonic,Occasionally,3,986.0,No,"Instagram, Friend Referral, Google Search","Late Delivery, Wrong Order"
+41,31,Male,Mumbai,₹80k+,"Indian, Chinese, Mexican",Minty Lime,Whiskey Sour,Frequently,1,1319.0,Yes,"Instagram, Zomato",Late Delivery
+42,26,Female,Mumbai,₹80k+,"Italian, Mexican, Chinese",Fruit Fizz,Rum Punch,Frequently,2,999.0,Yes,"Swiggy Ads, Instagram, Google Search",Wrong Order
+43,43,Male,Chennai,₹40k–60k,"Thai, Indian",Spicy Guava,Rum Punch,Frequently,2,1162.0,Yes,"Zomato, Friend Referral","High Price, None"
+44,19,Female,Mumbai,₹60k–80k,"Thai, Chinese, Continental",Spicy Guava,Rum Punch,Occasionally,4,877.0,Yes,"Google Search, Swiggy Ads, Instagram",Late Delivery
+45,37,Other,Chennai,<₹20k,"Italian, Indian, Thai",Spicy Guava,Rum Punch,Occasionally,5,1143.0,No,Instagram,Small Portion
+46,45,Other,Chennai,₹80k+,Italian,Fruit Fizz,Rum Punch,Frequently,2,890.0,Yes,Instagram,Late Delivery
+47,24,Male,Mumbai,₹40k–60k,"Chinese, Italian",Spicy Guava,Margarita,Frequently,1,621.0,Yes,"Instagram, Swiggy Ads, Friend Referral","Late Delivery, High Price"
+48,25,Female,Bangalore,₹60k–80k,"Chinese, Indian",Spicy Guava,Rum Punch,Rarely,1,998.0,No,Swiggy Ads,Wrong Order
+49,52,Male,Hyderabad,₹60k–80k,"Mexican, Chinese",Minty Lime,Margarita,Rarely,5,906.0,Yes,Instagram,"None, High Price"
+50,31,Male,Delhi,₹60k–80k,"Thai, Indian",Fruit Fizz,Gin & Tonic,Rarely,5,675.0,Yes,"Friend Referral, Zomato, Instagram","None, High Price"
+51,34,Female,Chennai,₹60k–80k,Chinese,Virgin Mojito,Rum Punch,Frequently,4,1038.0,Yes,"Swiggy Ads, Google Search",Small Portion
+52,53,Female,Hyderabad,₹60k–80k,"Chinese, Italian, Mexican",Minty Lime,Rum Punch,Frequently,3,821.0,Yes,Swiggy Ads,"Late Delivery, Small Portion"
+53,57,Female,Bangalore,₹80k+,Mexican,Minty Lime,Whiskey Sour,Frequently,1,1500.0,Yes,Friend Referral,Small Portion
+54,21,Other,Delhi,₹40k–60k,Chinese,Virgin Mojito,Gin & Tonic,Rarely,5,707.0,No,"Google Search, Zomato",Wrong Order
+55,19,Male,Delhi,₹60k–80k,"Thai, Italian, Chinese",Minty Lime,Rum Punch,Occasionally,1,757.0,Yes,"Instagram, Google Search, Friend Referral","None, Late Delivery"
+56,23,Male,Chennai,₹20k–40k,Thai,Fruit Fizz,Rum Punch,Frequently,5,1174.0,Yes,"Friend Referral, Instagram","None, High Price"
+57,59,Other,Mumbai,₹20k–40k,"Indian, Continental",Spicy Guava,Gin & Tonic,Occasionally,2,973.0,Yes,"Friend Referral, Zomato, Swiggy Ads",Wrong Order
+58,21,Female,Bangalore,₹40k–60k,"Indian, Mexican, Continental",Fruit Fizz,Margarita,Occasionally,1,1170.0,Yes,"Swiggy Ads, Instagram",Late Delivery
+59,46,Other,Chennai,<₹20k,"Continental, Chinese, Italian",Virgin Mojito,Rum Punch,Occasionally,2,1076.0,Yes,Friend Referral,Small Portion
+60,35,Other,Bangalore,<₹20k,"Indian, Chinese",Virgin Mojito,Whiskey Sour,Rarely,1,884.0,Yes,"Swiggy Ads, Instagram","None, Wrong Order"
+61,43,Other,Mumbai,<₹20k,Continental,Minty Lime,Rum Punch,Occasionally,3,724.0,Yes,"Zomato, Swiggy Ads","Late Delivery, Wrong Order"
+62,51,Male,Mumbai,₹20k–40k,Indian,Fruit Fizz,Whiskey Sour,Frequently,4,1214.0,No,Swiggy Ads,Late Delivery
+63,27,Other,Chennai,<₹20k,"Indian, Thai",Fruit Fizz,Whiskey Sour,Rarely,2,742.0,Yes,"Zomato, Instagram","High Price, Wrong Order"
+64,53,Male,Mumbai,₹80k+,Mexican,Virgin Mojito,Rum Punch,Frequently,5,1112.0,Yes,Swiggy Ads,Wrong Order
+65,31,Male,Hyderabad,₹60k–80k,"Indian, Chinese, Continental",Fruit Fizz,Rum Punch,Frequently,3,1184.0,No,Instagram,"Late Delivery, High Price"
+66,48,Male,Delhi,₹20k–40k,"Thai, Indian, Continental",Virgin Mojito,Whiskey Sour,Rarely,1,975.0,Yes,"Google Search, Friend Referral, Zomato",Late Delivery
+67,32,Female,Chennai,₹40k–60k,"Mexican, Thai, Continental",Fruit Fizz,Gin & Tonic,Frequently,2,939.0,Yes,"Google Search, Instagram","None, Late Delivery"
+68,25,Male,Bangalore,₹40k–60k,"Continental, Thai",Fruit Fizz,Gin & Tonic,Frequently,1,803.0,Yes,"Swiggy Ads, Google Search",High Price
+69,31,Male,Hyderabad,₹60k–80k,"Mexican, Chinese",Fruit Fizz,Rum Punch,Rarely,1,1093.0,Yes,"Friend Referral, Zomato, Swiggy Ads",None
+70,40,Female,Chennai,₹20k–40k,"Mexican, Thai, Italian",Virgin Mojito,Margarita,Frequently,1,500.0,Yes,"Instagram, Friend Referral, Zomato","High Price, Wrong Order"
+71,57,Male,Mumbai,<₹20k,"Continental, Mexican",Minty Lime,Gin & Tonic,Occasionally,4,1143.0,Yes,Google Search,"None, High Price"
+72,38,Other,Mumbai,<₹20k,"Chinese, Mexican",Fruit Fizz,Rum Punch,Frequently,4,1024.0,Yes,"Friend Referral, Google Search, Swiggy Ads",Late Delivery
+73,33,Other,Mumbai,₹80k+,"Italian, Chinese, Thai",Virgin Mojito,Gin & Tonic,Occasionally,5,955.0,Yes,"Instagram, Google Search, Friend Referral","Small Portion, Late Delivery"
+74,35,Male,Mumbai,₹80k+,"Continental, Chinese",Virgin Mojito,Margarita,Frequently,2,1048.0,Yes,Swiggy Ads,Late Delivery
+75,41,Female,Bangalore,<₹20k,"Italian, Chinese",Fruit Fizz,Rum Punch,Rarely,3,725.0,Yes,"Instagram, Swiggy Ads","Small Portion, Late Delivery"
+76,43,Other,Hyderabad,₹40k–60k,"Continental, Indian",Fruit Fizz,Margarita,Rarely,3,517.0,No,"Zomato, Instagram, Friend Referral",Small Portion
+77,42,Female,Delhi,₹40k–60k,"Italian, Chinese",Minty Lime,Rum Punch,Frequently,3,1094.0,No,Friend Referral,"None, Late Delivery"
+78,58,Female,Bangalore,₹80k+,Mexican,Virgin Mojito,Margarita,Rarely,1,1263.0,No,"Swiggy Ads, Zomato",None
+79,46,Other,Bangalore,₹60k–80k,"Continental, Thai",Virgin Mojito,Gin & Tonic,Frequently,4,652.0,Yes,"Google Search, Instagram, Swiggy Ads","Small Portion, None"
+80,32,Female,Delhi,<₹20k,Mexican,Spicy Guava,Gin & Tonic,Rarely,2,790.0,Yes,"Swiggy Ads, Friend Referral, Instagram","Late Delivery, Wrong Order"
+81,18,Other,Delhi,₹80k+,Continental,Virgin Mojito,Margarita,Occasionally,1,1150.0,Yes,Instagram,"None, High Price"
+82,42,Female,Mumbai,₹80k+,"Chinese, Mexican",Minty Lime,Margarita,Frequently,4,1072.0,Yes,"Instagram, Swiggy Ads",Wrong Order
+83,24,Other,Bangalore,<₹20k,"Mexican, Continental",Spicy Guava,Margarita,Occasionally,4,1500.0,Yes,"Google Search, Instagram",None
+84,26,Male,Chennai,<₹20k,"Mexican, Continental, Thai",Spicy Guava,Rum Punch,Occasionally,2,1215.0,Yes,"Swiggy Ads, Instagram, Friend Referral","High Price, None"
+85,41,Other,Delhi,₹40k–60k,"Italian, Continental",Spicy Guava,Gin & Tonic,Frequently,2,1167.0,Yes,"Google Search, Friend Referral, Swiggy Ads",Late Delivery
+86,18,Other,Delhi,₹60k–80k,"Continental, Mexican",Fruit Fizz,Rum Punch,Occasionally,2,847.0,Yes,"Zomato, Friend Referral",Small Portion
+87,25,Other,Hyderabad,₹60k–80k,Continental,Fruit Fizz,Gin & Tonic,Frequently,1,1105.0,No,"Friend Referral, Zomato, Google Search","Small Portion, None"
+88,41,Other,Chennai,<₹20k,"Chinese, Continental, Thai",Virgin Mojito,Whiskey Sour,Occasionally,5,1299.0,Yes,Swiggy Ads,High Price
+89,28,Female,Chennai,₹20k–40k,"Chinese, Thai, Continental",Spicy Guava,Rum Punch,Frequently,2,967.0,Yes,"Instagram, Zomato, Friend Referral","Late Delivery, Wrong Order"
+90,34,Male,Delhi,₹80k+,"Continental, Thai, Italian",Minty Lime,Gin & Tonic,Frequently,5,977.0,Yes,Friend Referral,High Price
+91,25,Other,Mumbai,₹80k+,"Thai, Mexican",Fruit Fizz,Gin & Tonic,Rarely,1,1028.0,Yes,"Instagram, Friend Referral, Google Search",Late Delivery
+92,52,Female,Hyderabad,<₹20k,"Continental, Italian",Minty Lime,Rum Punch,Frequently,5,867.0,Yes,"Swiggy Ads, Google Search","Wrong Order, Small Portion"
+93,52,Male,Chennai,₹20k–40k,Mexican,Minty Lime,Rum Punch,Frequently,3,1054.0,Yes,"Friend Referral, Google Search, Swiggy Ads","High Price, Wrong Order"
+94,50,Male,Delhi,₹40k–60k,Mexican,Fruit Fizz,Gin & Tonic,Occasionally,5,1049.0,Yes,"Friend Referral, Instagram","Wrong Order, High Price"
+95,22,Male,Chennai,<₹20k,Thai,Fruit Fizz,Rum Punch,Frequently,2,1296.0,No,Zomato,Small Portion
+96,59,Male,Hyderabad,<₹20k,"Mexican, Italian, Continental",Fruit Fizz,Margarita,Rarely,1,962.0,No,"Friend Referral, Google Search, Zomato","Wrong Order, Late Delivery"
+97,56,Other,Hyderabad,₹80k+,Chinese,Fruit Fizz,Rum Punch,Occasionally,2,1135.0,No,"Swiggy Ads, Zomato, Instagram",None
+98,58,Other,Bangalore,<₹20k,Italian,Spicy Guava,Rum Punch,Occasionally,3,968.0,No,Google Search,Wrong Order
+99,45,Female,Delhi,<₹20k,"Chinese, Mexican, Thai",Spicy Guava,Rum Punch,Rarely,2,1128.0,Yes,"Instagram, Zomato",High Price
+100,24,Female,Hyderabad,<₹20k,Mexican,Spicy Guava,Gin & Tonic,Occasionally,2,950.0,Yes,Zomato,"Late Delivery, None"
+101,26,Female,Bangalore,₹80k+,Continental,Spicy Guava,Margarita,Occasionally,2,1115.0,Yes,"Zomato, Friend Referral",Late Delivery
+102,25,Male,Bangalore,₹40k–60k,Mexican,Virgin Mojito,Whiskey Sour,Occasionally,4,1146.0,Yes,"Google Search, Swiggy Ads",Small Portion
+103,29,Male,Chennai,₹40k–60k,"Continental, Chinese, Italian",Spicy Guava,Whiskey Sour,Occasionally,3,787.0,Yes,Friend Referral,High Price
+104,51,Other,Chennai,<₹20k,"Continental, Thai, Chinese",Fruit Fizz,Margarita,Rarely,2,1220.0,No,"Friend Referral, Google Search",Late Delivery
+105,50,Male,Bangalore,₹80k+,"Mexican, Thai, Chinese",Minty Lime,Margarita,Rarely,2,967.0,Yes,"Swiggy Ads, Friend Referral","None, High Price"
+106,40,Male,Chennai,₹40k–60k,Mexican,Spicy Guava,Margarita,Occasionally,2,906.0,Yes,"Friend Referral, Instagram",Late Delivery
+107,41,Male,Hyderabad,₹40k–60k,"Mexican, Chinese",Virgin Mojito,Gin & Tonic,Occasionally,1,858.0,Yes,"Instagram, Zomato, Friend Referral",Late Delivery
+108,54,Female,Mumbai,₹40k–60k,"Chinese, Mexican, Italian",Fruit Fizz,Whiskey Sour,Rarely,4,1060.0,No,"Zomato, Google Search",Small Portion
+109,52,Female,Hyderabad,₹80k+,"Thai, Continental, Indian",Minty Lime,Margarita,Rarely,1,999.0,Yes,"Swiggy Ads, Instagram","Small Portion, Wrong Order"
+110,57,Other,Bangalore,₹80k+,"Indian, Continental, Thai",Minty Lime,Gin & Tonic,Rarely,4,1074.0,No,Instagram,None
+111,39,Male,Bangalore,<₹20k,Indian,Spicy Guava,Whiskey Sour,Occasionally,2,1078.0,No,"Friend Referral, Swiggy Ads",High Price
+112,44,Male,Hyderabad,₹60k–80k,Italian,Minty Lime,Rum Punch,Occasionally,3,1122.0,No,"Google Search, Friend Referral","Small Portion, High Price"
+113,52,Other,Chennai,₹40k–60k,Italian,Spicy Guava,Gin & Tonic,Frequently,5,1500.0,No,"Swiggy Ads, Instagram","High Price, Wrong Order"
+114,18,Male,Chennai,₹60k–80k,"Chinese, Continental",Spicy Guava,Whiskey Sour,Rarely,5,1008.0,No,"Google Search, Instagram, Friend Referral",Wrong Order
+115,52,Male,Bangalore,₹80k+,Italian,Fruit Fizz,Gin & Tonic,Occasionally,2,853.0,Yes,"Instagram, Google Search, Swiggy Ads","High Price, Wrong Order"
+116,54,Female,Delhi,₹80k+,Italian,Fruit Fizz,Whiskey Sour,Rarely,1,596.0,Yes,Friend Referral,"Late Delivery, Wrong Order"
+117,31,Other,Chennai,₹80k+,"Italian, Thai, Mexican",Virgin Mojito,Whiskey Sour,Occasionally,3,761.0,Yes,Google Search,Small Portion
+118,20,Other,Hyderabad,₹60k–80k,"Italian, Chinese",Fruit Fizz,Rum Punch,Rarely,4,1247.0,Yes,Swiggy Ads,Late Delivery
+119,18,Other,Chennai,₹80k+,"Italian, Indian",Fruit Fizz,Gin & Tonic,Occasionally,2,1144.0,No,"Swiggy Ads, Google Search",Small Portion
+120,22,Other,Hyderabad,<₹20k,"Chinese, Continental, Thai",Spicy Guava,Margarita,Frequently,3,730.0,Yes,"Instagram, Zomato, Google Search","High Price, Wrong Order"
+121,43,Female,Bangalore,₹80k+,"Indian, Thai",Fruit Fizz,Rum Punch,Frequently,3,1493.0,No,Friend Referral,High Price
+122,31,Female,Chennai,₹20k–40k,"Mexican, Chinese, Continental",Spicy Guava,Rum Punch,Rarely,4,1065.0,Yes,Instagram,"Small Portion, Late Delivery"
+123,56,Male,Hyderabad,₹60k–80k,"Italian, Chinese, Indian",Spicy Guava,Whiskey Sour,Occasionally,3,1092.0,Yes,Swiggy Ads,Late Delivery
+124,44,Male,Bangalore,₹20k–40k,"Chinese, Mexican, Indian",Fruit Fizz,Margarita,Occasionally,1,1449.0,No,"Swiggy Ads, Zomato","Late Delivery, None"
+125,26,Male,Delhi,₹80k+,Chinese,Virgin Mojito,Gin & Tonic,Rarely,1,1348.0,Yes,"Instagram, Swiggy Ads, Google Search","Wrong Order, None"
+126,32,Male,Hyderabad,<₹20k,"Mexican, Continental",Virgin Mojito,Margarita,Occasionally,1,1156.0,Yes,Friend Referral,Wrong Order
+127,32,Female,Delhi,₹40k–60k,"Chinese, Indian",Minty Lime,Margarita,Rarely,3,1166.0,Yes,"Instagram, Friend Referral, Zomato",Small Portion
+128,43,Other,Delhi,₹80k+,"Continental, Italian, Mexican",Minty Lime,Margarita,Occasionally,1,1185.0,Yes,Friend Referral,Late Delivery
+129,59,Female,Mumbai,<₹20k,"Thai, Chinese, Mexican",Fruit Fizz,Margarita,Rarely,4,952.0,Yes,"Google Search, Friend Referral",Late Delivery
+130,30,Male,Chennai,₹60k–80k,Mexican,Virgin Mojito,Margarita,Occasionally,3,1057.0,Yes,Zomato,"None, Late Delivery"
+131,49,Female,Hyderabad,₹20k–40k,"Thai, Italian, Continental",Spicy Guava,Whiskey Sour,Rarely,5,1115.0,Yes,Instagram,"Late Delivery, High Price"
+132,56,Other,Delhi,₹20k–40k,Italian,Minty Lime,Whiskey Sour,Occasionally,3,975.0,No,Swiggy Ads,Small Portion
+133,49,Other,Mumbai,₹20k–40k,Chinese,Spicy Guava,Rum Punch,Frequently,4,807.0,No,"Zomato, Google Search, Friend Referral",Late Delivery
+134,21,Female,Bangalore,₹60k–80k,Thai,Minty Lime,Whiskey Sour,Occasionally,5,947.0,Yes,Zomato,"Wrong Order, High Price"
+135,47,Female,Hyderabad,<₹20k,"Continental, Mexican",Fruit Fizz,Rum Punch,Rarely,3,802.0,Yes,"Zomato, Instagram, Swiggy Ads","None, Late Delivery"
+136,54,Female,Delhi,₹60k–80k,Indian,Virgin Mojito,Rum Punch,Frequently,1,1013.0,No,Friend Referral,"None, Small Portion"
+137,40,Male,Chennai,₹20k–40k,"Chinese, Italian, Thai",Minty Lime,Gin & Tonic,Occasionally,2,644.0,Yes,Instagram,"Wrong Order, Late Delivery"
+138,56,Female,Mumbai,₹80k+,"Indian, Italian, Mexican",Virgin Mojito,Margarita,Frequently,2,1068.0,Yes,"Instagram, Google Search, Friend Referral","None, Late Delivery"
+139,32,Female,Delhi,₹40k–60k,Thai,Spicy Guava,Whiskey Sour,Occasionally,1,674.0,Yes,Swiggy Ads,High Price
+140,46,Female,Chennai,₹60k–80k,"Mexican, Chinese, Italian",Fruit Fizz,Gin & Tonic,Frequently,2,919.0,No,Swiggy Ads,Small Portion
+141,53,Other,Delhi,₹60k–80k,"Chinese, Thai",Virgin Mojito,Whiskey Sour,Rarely,2,1101.0,Yes,"Instagram, Friend Referral, Google Search",Late Delivery
+142,30,Other,Hyderabad,<₹20k,"Thai, Indian",Fruit Fizz,Rum Punch,Occasionally,1,1158.0,Yes,"Google Search, Zomato","None, Wrong Order"
+143,49,Male,Hyderabad,<₹20k,"Italian, Chinese",Virgin Mojito,Whiskey Sour,Occasionally,1,1134.0,Yes,"Zomato, Google Search, Swiggy Ads","Wrong Order, High Price"
+144,24,Male,Hyderabad,₹60k–80k,Continental,Spicy Guava,Margarita,Rarely,3,1064.0,Yes,"Swiggy Ads, Instagram","High Price, Late Delivery"
+145,39,Other,Mumbai,₹20k–40k,Continental,Spicy Guava,Rum Punch,Frequently,3,776.0,Yes,"Zomato, Instagram, Google Search",None
+146,45,Other,Hyderabad,₹40k–60k,"Italian, Mexican",Fruit Fizz,Rum Punch,Rarely,1,1196.0,Yes,"Friend Referral, Zomato, Swiggy Ads",Wrong Order
+147,19,Other,Chennai,<₹20k,"Italian, Indian",Spicy Guava,Gin & Tonic,Rarely,4,781.0,No,"Google Search, Friend Referral, Instagram","Wrong Order, Late Delivery"
+148,59,Female,Delhi,₹20k–40k,"Continental, Mexican",Minty Lime,Margarita,Frequently,2,1219.0,No,Google Search,Wrong Order
+149,23,Female,Bangalore,₹80k+,"Indian, Italian, Continental",Virgin Mojito,Rum Punch,Rarely,3,1126.0,Yes,"Instagram, Swiggy Ads, Google Search",None
+150,45,Other,Chennai,<₹20k,Thai,Spicy Guava,Margarita,Occasionally,2,1272.0,Yes,"Swiggy Ads, Google Search, Instagram","None, Wrong Order"
+151,45,Female,Chennai,₹20k–40k,Continental,Minty Lime,Whiskey Sour,Occasionally,5,1005.0,Yes,"Google Search, Friend Referral, Instagram",Wrong Order
+152,37,Female,Hyderabad,₹20k–40k,"Indian, Italian, Mexican",Fruit Fizz,Margarita,Occasionally,1,836.0,No,"Swiggy Ads, Zomato",Late Delivery
+153,47,Male,Mumbai,₹40k–60k,Mexican,Minty Lime,Rum Punch,Rarely,4,741.0,No,"Instagram, Friend Referral","Late Delivery, High Price"
+154,28,Other,Delhi,₹40k–60k,"Mexican, Indian",Fruit Fizz,Gin & Tonic,Occasionally,5,764.0,Yes,"Friend Referral, Swiggy Ads","Small Portion, High Price"
+155,45,Other,Mumbai,₹80k+,"Continental, Italian, Mexican",Fruit Fizz,Rum Punch,Occasionally,5,673.0,Yes,"Friend Referral, Swiggy Ads, Google Search",Wrong Order
+156,42,Female,Delhi,₹20k–40k,"Italian, Thai",Virgin Mojito,Margarita,Occasionally,5,1188.0,No,"Swiggy Ads, Friend Referral, Instagram",Late Delivery
+157,56,Other,Delhi,₹20k–40k,"Mexican, Italian",Virgin Mojito,Margarita,Occasionally,1,1213.0,Yes,Zomato,"High Price, Wrong Order"
+158,50,Male,Mumbai,₹40k–60k,Italian,Minty Lime,Rum Punch,Occasionally,3,1111.0,Yes,"Google Search, Swiggy Ads",Wrong Order
+159,18,Male,Chennai,<₹20k,"Italian, Thai, Chinese",Virgin Mojito,Margarita,Occasionally,1,993.0,Yes,"Instagram, Swiggy Ads",Wrong Order
+160,44,Male,Delhi,<₹20k,"Italian, Continental",Virgin Mojito,Whiskey Sour,Rarely,3,1412.0,Yes,"Instagram, Google Search",Wrong Order
+161,30,Other,Mumbai,₹60k–80k,Mexican,Virgin Mojito,Rum Punch,Occasionally,5,980.0,Yes,Swiggy Ads,High Price
+162,58,Other,Delhi,₹40k–60k,"Indian, Italian, Continental",Minty Lime,Gin & Tonic,Occasionally,5,1044.0,No,"Zomato, Instagram, Friend Referral",Wrong Order
+163,20,Other,Bangalore,₹60k–80k,Chinese,Spicy Guava,Rum Punch,Frequently,4,990.0,Yes,"Instagram, Google Search, Swiggy Ads",Wrong Order
+164,56,Other,Chennai,₹40k–60k,Chinese,Virgin Mojito,Whiskey Sour,Rarely,3,932.0,Yes,"Zomato, Swiggy Ads","Small Portion, High Price"
+165,23,Other,Hyderabad,₹80k+,Chinese,Virgin Mojito,Whiskey Sour,Rarely,5,1126.0,Yes,"Instagram, Swiggy Ads",Late Delivery
+166,25,Male,Delhi,₹20k–40k,"Indian, Chinese",Minty Lime,Whiskey Sour,Rarely,2,873.0,Yes,Friend Referral,High Price
+167,44,Female,Bangalore,₹80k+,"Chinese, Indian, Thai",Spicy Guava,Whiskey Sour,Rarely,4,860.0,Yes,"Instagram, Swiggy Ads",Late Delivery
+168,26,Male,Hyderabad,₹40k–60k,Continental,Virgin Mojito,Whiskey Sour,Occasionally,1,1136.0,Yes,Instagram,None
+169,54,Other,Hyderabad,₹20k–40k,Continental,Fruit Fizz,Gin & Tonic,Occasionally,4,900.0,No,"Friend Referral, Google Search, Swiggy Ads",Small Portion
+170,50,Male,Delhi,<₹20k,"Thai, Indian",Minty Lime,Margarita,Frequently,2,1027.0,Yes,"Swiggy Ads, Instagram","Late Delivery, Small Portion"
+171,59,Other,Mumbai,<₹20k,Thai,Virgin Mojito,Whiskey Sour,Frequently,3,932.0,Yes,Zomato,"Small Portion, Wrong Order"
+172,41,Other,Delhi,₹60k–80k,"Mexican, Italian, Indian",Virgin Mojito,Whiskey Sour,Rarely,1,998.0,Yes,Zomato,Late Delivery
+173,32,Male,Bangalore,₹40k–60k,"Indian, Continental, Chinese",Fruit Fizz,Rum Punch,Frequently,1,865.0,Yes,Google Search,"None, Wrong Order"
+174,49,Other,Hyderabad,₹40k–60k,Continental,Fruit Fizz,Gin & Tonic,Frequently,3,872.0,No,"Friend Referral, Instagram, Zomato","Small Portion, None"
+175,49,Female,Delhi,<₹20k,Chinese,Minty Lime,Gin & Tonic,Rarely,4,836.0,Yes,Google Search,"Small Portion, Late Delivery"
+176,41,Other,Mumbai,₹80k+,Continental,Minty Lime,Margarita,Rarely,5,1169.0,No,"Google Search, Instagram",Wrong Order
+177,58,Female,Delhi,₹20k–40k,Indian,Fruit Fizz,Gin & Tonic,Frequently,4,1034.0,Yes,"Swiggy Ads, Friend Referral",Late Delivery
+178,29,Female,Chennai,₹80k+,"Continental, Chinese",Minty Lime,Rum Punch,Occasionally,2,1184.0,No,"Swiggy Ads, Instagram",None
+179,56,Other,Mumbai,₹80k+,Indian,Fruit Fizz,Rum Punch,Frequently,5,1205.0,Yes,"Zomato, Swiggy Ads",Small Portion
+180,19,Male,Bangalore,<₹20k,"Indian, Mexican, Italian",Virgin Mojito,Margarita,Frequently,4,908.0,Yes,"Friend Referral, Swiggy Ads, Google Search",Small Portion
+181,20,Female,Hyderabad,<₹20k,"Thai, Chinese, Mexican",Fruit Fizz,Rum Punch,Occasionally,3,1176.0,Yes,"Google Search, Instagram","Small Portion, Late Delivery"
+182,54,Male,Delhi,<₹20k,Continental,Fruit Fizz,Whiskey Sour,Occasionally,2,997.0,Yes,Friend Referral,None
+183,34,Female,Mumbai,₹60k–80k,"Thai, Chinese",Spicy Guava,Whiskey Sour,Rarely,2,968.0,No,"Swiggy Ads, Instagram",Late Delivery
+184,19,Other,Chennai,₹80k+,"Italian, Thai",Fruit Fizz,Rum Punch,Rarely,2,1250.0,No,"Zomato, Friend Referral, Swiggy Ads",High Price
+185,19,Other,Mumbai,₹40k–60k,Mexican,Fruit Fizz,Margarita,Frequently,5,1111.0,Yes,"Friend Referral, Zomato",None
+186,45,Female,Chennai,₹20k–40k,Thai,Spicy Guava,Gin & Tonic,Occasionally,1,930.0,Yes,"Swiggy Ads, Friend Referral, Zomato","Late Delivery, Small Portion"
+187,40,Other,Bangalore,₹60k–80k,Indian,Minty Lime,Margarita,Rarely,5,1098.0,Yes,Friend Referral,"Wrong Order, None"
+188,54,Female,Hyderabad,₹40k–60k,Chinese,Spicy Guava,Gin & Tonic,Frequently,4,747.0,No,Google Search,Wrong Order
+189,49,Other,Bangalore,₹80k+,"Chinese, Thai",Virgin Mojito,Rum Punch,Occasionally,1,1049.0,Yes,"Instagram, Swiggy Ads, Zomato",Small Portion
+190,50,Male,Delhi,<₹20k,"Chinese, Indian, Thai",Spicy Guava,Rum Punch,Frequently,4,700.0,Yes,"Google Search, Zomato, Swiggy Ads","Late Delivery, None"
+191,18,Other,Mumbai,₹80k+,Chinese,Virgin Mojito,Whiskey Sour,Rarely,1,803.0,Yes,"Instagram, Swiggy Ads, Google Search","Small Portion, High Price"
+192,36,Male,Chennai,₹20k–40k,"Chinese, Continental",Minty Lime,Gin & Tonic,Rarely,5,1117.0,No,"Swiggy Ads, Instagram","Small Portion, None"
+193,19,Other,Chennai,₹60k–80k,"Continental, Thai",Spicy Guava,Margarita,Occasionally,2,500.0,Yes,"Google Search, Friend Referral",Small Portion
+194,43,Male,Mumbai,₹60k–80k,"Thai, Mexican",Spicy Guava,Rum Punch,Frequently,3,1361.0,No,Zomato,Small Portion
+195,49,Other,Mumbai,₹20k–40k,"Continental, Italian, Chinese",Minty Lime,Margarita,Occasionally,2,1167.0,No,"Swiggy Ads, Friend Referral",Late Delivery
+196,23,Male,Delhi,₹40k–60k,"Italian, Continental",Virgin Mojito,Whiskey Sour,Rarely,5,632.0,Yes,"Swiggy Ads, Zomato","High Price, None"
+197,49,Female,Bangalore,₹40k–60k,"Chinese, Thai, Indian",Spicy Guava,Gin & Tonic,Rarely,1,1480.0,Yes,"Swiggy Ads, Zomato, Google Search",High Price
+198,21,Female,Chennai,₹60k–80k,"Continental, Italian, Thai",Virgin Mojito,Gin & Tonic,Frequently,2,1500.0,No,"Swiggy Ads, Zomato","High Price, None"
+199,28,Male,Delhi,₹60k–80k,Indian,Spicy Guava,Rum Punch,Frequently,5,964.0,Yes,Swiggy Ads,Small Portion
+200,34,Other,Bangalore,<₹20k,Indian,Fruit Fizz,Gin & Tonic,Frequently,4,815.0,No,"Friend Referral, Google Search","Small Portion, Wrong Order"
+201,55,Male,Delhi,₹40k–60k,"Italian, Indian",Spicy Guava,Rum Punch,Occasionally,3,1337.0,Yes,"Zomato, Friend Referral, Instagram","None, Wrong Order"
+202,41,Other,Chennai,₹20k–40k,"Mexican, Indian, Continental",Minty Lime,Whiskey Sour,Frequently,2,931.0,Yes,"Swiggy Ads, Instagram",None
+203,22,Female,Mumbai,₹40k–60k,Continental,Minty Lime,Gin & Tonic,Frequently,1,1032.0,No,"Instagram, Google Search","High Price, Late Delivery"
+204,51,Other,Mumbai,<₹20k,"Indian, Italian, Thai",Virgin Mojito,Rum Punch,Rarely,4,1243.0,Yes,"Swiggy Ads, Friend Referral, Instagram","None, Small Portion"
+205,23,Female,Bangalore,₹60k–80k,"Continental, Thai, Indian",Spicy Guava,Margarita,Rarely,5,969.0,Yes,Instagram,Small Portion
+206,39,Other,Hyderabad,₹60k–80k,"Italian, Continental, Mexican",Virgin Mojito,Rum Punch,Frequently,3,952.0,No,Friend Referral,Wrong Order
+207,28,Other,Bangalore,<₹20k,"Continental, Mexican",Virgin Mojito,Gin & Tonic,Frequently,1,746.0,Yes,"Friend Referral, Zomato",Small Portion
+208,33,Other,Hyderabad,₹20k–40k,"Mexican, Italian",Fruit Fizz,Whiskey Sour,Rarely,5,874.0,Yes,"Swiggy Ads, Instagram",Small Portion
+209,50,Male,Delhi,₹60k–80k,"Italian, Thai",Fruit Fizz,Gin & Tonic,Frequently,5,948.0,Yes,"Swiggy Ads, Instagram",Late Delivery
+210,26,Male,Delhi,₹80k+,"Chinese, Continental, Thai",Minty Lime,Gin & Tonic,Occasionally,2,752.0,No,"Zomato, Friend Referral, Swiggy Ads","Wrong Order, High Price"
+211,23,Female,Chennai,₹60k–80k,Continental,Virgin Mojito,Rum Punch,Occasionally,2,770.0,No,"Instagram, Zomato, Friend Referral",Small Portion
+212,33,Female,Hyderabad,₹80k+,"Mexican, Continental",Minty Lime,Margarita,Occasionally,1,1007.0,Yes,Zomato,High Price
+213,46,Male,Chennai,<₹20k,"Italian, Mexican",Spicy Guava,Gin & Tonic,Frequently,5,630.0,No,Friend Referral,"High Price, Wrong Order"
+214,20,Female,Mumbai,<₹20k,"Mexican, Continental",Virgin Mojito,Margarita,Rarely,2,824.0,No,"Swiggy Ads, Friend Referral",None
+215,37,Male,Hyderabad,₹60k–80k,Chinese,Virgin Mojito,Rum Punch,Frequently,3,1389.0,Yes,"Swiggy Ads, Friend Referral, Zomato",None
+216,53,Other,Bangalore,₹40k–60k,"Mexican, Continental, Indian",Spicy Guava,Margarita,Frequently,3,931.0,Yes,"Swiggy Ads, Google Search, Zomato","None, Late Delivery"
+217,36,Female,Mumbai,₹80k+,Italian,Spicy Guava,Rum Punch,Rarely,5,906.0,Yes,Swiggy Ads,"Wrong Order, None"
+218,43,Female,Mumbai,₹20k–40k,"Continental, Chinese",Minty Lime,Whiskey Sour,Rarely,2,930.0,Yes,Swiggy Ads,"Late Delivery, Small Portion"
+219,20,Male,Bangalore,₹60k–80k,"Italian, Indian",Minty Lime,Margarita,Rarely,1,933.0,No,Google Search,"Wrong Order, None"
+220,36,Female,Mumbai,₹20k–40k,"Continental, Chinese",Spicy Guava,Margarita,Occasionally,1,1115.0,No,Google Search,"Wrong Order, None"
+221,37,Female,Hyderabad,₹60k–80k,Thai,Minty Lime,Whiskey Sour,Frequently,1,1101.0,Yes,"Instagram, Friend Referral","Small Portion, Wrong Order"
+222,49,Other,Chennai,₹40k–60k,Chinese,Spicy Guava,Margarita,Rarely,3,922.0,Yes,"Swiggy Ads, Zomato, Friend Referral","Late Delivery, High Price"
+223,24,Female,Mumbai,₹40k–60k,Indian,Virgin Mojito,Whiskey Sour,Frequently,2,957.0,Yes,Swiggy Ads,Wrong Order
+224,58,Other,Hyderabad,₹40k–60k,"Mexican, Chinese",Virgin Mojito,Gin & Tonic,Occasionally,2,1263.0,Yes,Zomato,High Price
+225,50,Male,Delhi,₹40k–60k,"Italian, Chinese",Fruit Fizz,Rum Punch,Occasionally,3,698.0,Yes,"Google Search, Friend Referral, Zomato",Late Delivery
+226,57,Female,Hyderabad,<₹20k,Mexican,Virgin Mojito,Whiskey Sour,Rarely,1,988.0,Yes,"Google Search, Instagram, Swiggy Ads",Late Delivery
+227,56,Other,Chennai,<₹20k,"Chinese, Italian",Spicy Guava,Margarita,Rarely,1,1027.0,Yes,"Swiggy Ads, Zomato",High Price
+228,35,Male,Hyderabad,₹80k+,"Italian, Chinese, Thai",Minty Lime,Whiskey Sour,Frequently,5,845.0,Yes,"Zomato, Instagram","Small Portion, Late Delivery"
+229,57,Female,Bangalore,₹20k–40k,"Thai, Mexican",Fruit Fizz,Margarita,Rarely,4,977.0,No,Instagram,"High Price, None"
+230,18,Male,Chennai,₹60k–80k,"Mexican, Chinese",Minty Lime,Gin & Tonic,Frequently,2,818.0,Yes,"Zomato, Swiggy Ads, Instagram","Small Portion, High Price"
+231,28,Female,Delhi,₹60k–80k,"Continental, Indian",Spicy Guava,Whiskey Sour,Rarely,2,1127.0,Yes,"Friend Referral, Swiggy Ads, Google Search","High Price, Small Portion"
+232,45,Male,Bangalore,<₹20k,"Indian, Continental",Virgin Mojito,Gin & Tonic,Frequently,2,732.0,Yes,"Swiggy Ads, Google Search","None, High Price"
+233,42,Male,Hyderabad,₹60k–80k,"Continental, Mexican",Fruit Fizz,Rum Punch,Frequently,4,1212.0,Yes,Google Search,"Wrong Order, High Price"
+234,40,Other,Chennai,<₹20k,"Italian, Chinese, Thai",Spicy Guava,Margarita,Frequently,5,985.0,Yes,Google Search,Small Portion
+235,48,Male,Delhi,₹80k+,"Mexican, Chinese, Continental",Fruit Fizz,Margarita,Frequently,4,910.0,Yes,"Swiggy Ads, Friend Referral","None, Small Portion"
+236,47,Female,Bangalore,₹20k–40k,"Indian, Italian",Fruit Fizz,Gin & Tonic,Occasionally,1,799.0,No,Swiggy Ads,"Small Portion, None"
+237,59,Female,Delhi,₹80k+,"Chinese, Italian, Thai",Virgin Mojito,Rum Punch,Frequently,1,1206.0,Yes,"Swiggy Ads, Google Search","Late Delivery, Small Portion"
+238,52,Other,Hyderabad,₹40k–60k,"Thai, Mexican, Indian",Spicy Guava,Whiskey Sour,Rarely,2,870.0,No,"Instagram, Swiggy Ads, Zomato",High Price
+239,24,Female,Delhi,₹40k–60k,"Chinese, Thai, Italian",Minty Lime,Whiskey Sour,Occasionally,3,767.0,No,"Friend Referral, Instagram",Late Delivery
+240,33,Female,Mumbai,₹40k–60k,"Continental, Italian",Fruit Fizz,Margarita,Occasionally,2,1210.0,No,Swiggy Ads,High Price
+241,43,Female,Bangalore,₹80k+,"Chinese, Italian, Mexican",Fruit Fizz,Gin & Tonic,Frequently,3,819.0,Yes,"Swiggy Ads, Zomato","High Price, Late Delivery"
+242,19,Male,Delhi,₹60k–80k,Indian,Minty Lime,Gin & Tonic,Occasionally,4,981.0,No,"Instagram, Swiggy Ads",None
+243,18,Male,Hyderabad,₹20k–40k,"Italian, Mexican",Spicy Guava,Whiskey Sour,Frequently,1,1164.0,Yes,Zomato,"None, High Price"
+244,29,Female,Hyderabad,₹40k–60k,Chinese,Fruit Fizz,Rum Punch,Rarely,3,1032.0,Yes,"Friend Referral, Instagram, Zomato",High Price
+245,22,Other,Delhi,₹40k–60k,"Continental, Chinese",Fruit Fizz,Rum Punch,Frequently,4,1346.0,No,"Friend Referral, Google Search, Instagram",Small Portion
+246,54,Male,Hyderabad,₹40k–60k,"Continental, Mexican",Fruit Fizz,Whiskey Sour,Occasionally,1,833.0,Yes,Instagram,High Price
+247,49,Other,Chennai,₹20k–40k,"Thai, Italian",Spicy Guava,Whiskey Sour,Rarely,3,958.0,Yes,"Swiggy Ads, Instagram","None, Small Portion"
+248,26,Female,Chennai,₹40k–60k,"Italian, Chinese, Thai",Spicy Guava,Gin & Tonic,Frequently,2,973.0,Yes,"Google Search, Instagram, Friend Referral","High Price, Small Portion"
+249,58,Female,Chennai,₹20k–40k,"Continental, Thai",Minty Lime,Rum Punch,Rarely,2,1124.0,Yes,"Swiggy Ads, Instagram, Google Search",Late Delivery
+250,52,Male,Mumbai,₹40k–60k,Continental,Spicy Guava,Whiskey Sour,Rarely,2,1258.0,Yes,"Instagram, Zomato",Late Delivery
+251,36,Female,Delhi,₹80k+,"Thai, Chinese, Continental",Spicy Guava,Whiskey Sour,Occasionally,4,1015.0,Yes,"Friend Referral, Swiggy Ads","High Price, Wrong Order"
+252,33,Male,Mumbai,₹80k+,"Thai, Mexican",Virgin Mojito,Margarita,Rarely,2,972.0,No,"Zomato, Swiggy Ads, Google Search",High Price
+253,20,Female,Hyderabad,₹20k–40k,Italian,Minty Lime,Whiskey Sour,Occasionally,5,703.0,No,Instagram,High Price
+254,37,Female,Mumbai,₹80k+,"Indian, Mexican, Chinese",Fruit Fizz,Whiskey Sour,Rarely,1,1022.0,No,"Google Search, Friend Referral, Swiggy Ads",Small Portion
+255,41,Male,Hyderabad,₹20k–40k,"Italian, Indian, Mexican",Spicy Guava,Rum Punch,Frequently,4,870.0,Yes,"Google Search, Instagram",High Price
+256,50,Male,Hyderabad,₹80k+,"Thai, Italian",Fruit Fizz,Gin & Tonic,Rarely,2,1124.0,Yes,"Zomato, Swiggy Ads",High Price
+257,41,Male,Bangalore,₹80k+,Mexican,Fruit Fizz,Rum Punch,Frequently,1,918.0,No,"Google Search, Zomato, Instagram",Wrong Order
+258,28,Female,Chennai,₹20k–40k,"Chinese, Italian",Virgin Mojito,Gin & Tonic,Frequently,3,952.0,No,Zomato,Small Portion
+259,25,Female,Hyderabad,₹60k–80k,"Chinese, Italian, Indian",Spicy Guava,Margarita,Rarely,2,708.0,Yes,Zomato,High Price
+260,53,Other,Bangalore,₹80k+,"Chinese, Continental",Minty Lime,Whiskey Sour,Frequently,1,638.0,Yes,"Friend Referral, Swiggy Ads","High Price, Wrong Order"
+261,55,Male,Chennai,₹40k–60k,"Indian, Italian, Thai",Spicy Guava,Margarita,Rarely,5,1372.0,Yes,"Instagram, Swiggy Ads",Small Portion
+262,57,Female,Hyderabad,₹60k–80k,"Mexican, Thai, Chinese",Fruit Fizz,Gin & Tonic,Rarely,3,1026.0,Yes,"Zomato, Swiggy Ads, Friend Referral","Wrong Order, Small Portion"
+263,37,Female,Hyderabad,₹20k–40k,"Italian, Mexican",Minty Lime,Rum Punch,Frequently,5,1081.0,Yes,Friend Referral,Late Delivery
+264,52,Male,Mumbai,₹60k–80k,"Thai, Continental",Spicy Guava,Rum Punch,Frequently,1,818.0,No,"Swiggy Ads, Instagram, Friend Referral",Late Delivery
+265,42,Other,Mumbai,<₹20k,Continental,Fruit Fizz,Margarita,Occasionally,5,1175.0,Yes,Zomato,Small Portion
+266,52,Male,Chennai,<₹20k,Thai,Fruit Fizz,Gin & Tonic,Frequently,1,1139.0,Yes,"Swiggy Ads, Google Search, Instagram","Wrong Order, None"
+267,42,Other,Hyderabad,₹80k+,"Indian, Italian, Continental",Virgin Mojito,Margarita,Occasionally,1,840.0,Yes,Friend Referral,Late Delivery
+268,46,Female,Delhi,₹80k+,"Chinese, Thai, Italian",Virgin Mojito,Margarita,Frequently,5,788.0,Yes,Zomato,"None, Small Portion"
+269,35,Other,Mumbai,₹40k–60k,Mexican,Virgin Mojito,Whiskey Sour,Rarely,1,853.0,Yes,Instagram,None
+270,35,Female,Chennai,₹60k–80k,"Continental, Indian",Fruit Fizz,Margarita,Frequently,2,994.0,Yes,Google Search,"High Price, Wrong Order"
+271,19,Male,Hyderabad,<₹20k,"Italian, Chinese",Spicy Guava,Whiskey Sour,Rarely,1,1033.0,Yes,"Friend Referral, Swiggy Ads",High Price
+272,52,Male,Hyderabad,₹80k+,Italian,Virgin Mojito,Whiskey Sour,Rarely,4,1008.0,No,"Zomato, Instagram","Wrong Order, Small Portion"
+273,33,Male,Delhi,₹60k–80k,Indian,Spicy Guava,Rum Punch,Rarely,1,1260.0,Yes,"Swiggy Ads, Instagram","High Price, None"
+274,58,Other,Chennai,₹80k+,"Continental, Mexican, Indian",Virgin Mojito,Whiskey Sour,Occasionally,4,857.0,Yes,"Instagram, Friend Referral","Late Delivery, None"
+275,53,Female,Hyderabad,₹80k+,"Mexican, Chinese",Minty Lime,Whiskey Sour,Frequently,1,783.0,Yes,Instagram,"Wrong Order, None"
+276,50,Male,Mumbai,<₹20k,"Continental, Mexican",Minty Lime,Rum Punch,Rarely,1,1000.0,No,Swiggy Ads,None
+277,21,Male,Delhi,<₹20k,"Chinese, Thai, Mexican",Virgin Mojito,Margarita,Rarely,5,661.0,Yes,Instagram,"High Price, Wrong Order"
+278,50,Female,Chennai,₹80k+,"Indian, Italian",Fruit Fizz,Gin & Tonic,Occasionally,2,1139.0,No,"Instagram, Friend Referral",Small Portion
+279,31,Male,Delhi,₹20k–40k,"Italian, Chinese",Virgin Mojito,Gin & Tonic,Frequently,2,1020.0,Yes,"Friend Referral, Google Search","Small Portion, Wrong Order"
+280,38,Female,Mumbai,₹80k+,"Thai, Mexican, Italian",Virgin Mojito,Gin & Tonic,Frequently,3,932.0,No,Zomato,"Small Portion, High Price"
+281,37,Female,Chennai,₹80k+,Thai,Fruit Fizz,Margarita,Occasionally,5,921.0,No,"Swiggy Ads, Google Search","Wrong Order, None"
+282,25,Female,Delhi,₹40k–60k,Italian,Minty Lime,Whiskey Sour,Occasionally,5,1182.0,Yes,"Instagram, Friend Referral","Late Delivery, None"
+283,24,Female,Bangalore,₹40k–60k,Indian,Spicy Guava,Gin & Tonic,Frequently,2,1176.0,Yes,Zomato,"Late Delivery, None"
+284,20,Female,Mumbai,₹40k–60k,Italian,Virgin Mojito,Margarita,Occasionally,5,951.0,Yes,Swiggy Ads,"Wrong Order, Small Portion"
+285,34,Other,Mumbai,₹20k–40k,"Mexican, Italian, Chinese",Fruit Fizz,Whiskey Sour,Frequently,2,1118.0,No,"Google Search, Swiggy Ads",Late Delivery
+286,50,Male,Mumbai,₹20k–40k,"Continental, Mexican",Virgin Mojito,Rum Punch,Frequently,5,1173.0,Yes,"Instagram, Friend Referral, Google Search","High Price, Late Delivery"
+287,29,Other,Bangalore,₹80k+,"Indian, Mexican, Italian",Fruit Fizz,Gin & Tonic,Rarely,1,1067.0,Yes,"Instagram, Friend Referral",Late Delivery
+288,39,Male,Bangalore,₹40k–60k,"Chinese, Italian",Spicy Guava,Whiskey Sour,Rarely,2,959.0,No,"Google Search, Instagram",Small Portion
+289,39,Other,Hyderabad,₹20k–40k,"Indian, Italian, Thai",Spicy Guava,Gin & Tonic,Frequently,2,1076.0,No,Zomato,Wrong Order
+290,47,Female,Delhi,<₹20k,"Thai, Indian, Continental",Minty Lime,Gin & Tonic,Frequently,4,792.0,Yes,"Google Search, Instagram",High Price
+291,55,Male,Hyderabad,₹80k+,"Continental, Chinese, Mexican",Fruit Fizz,Gin & Tonic,Frequently,5,1014.0,Yes,Zomato,High Price
+292,55,Male,Delhi,₹60k–80k,Indian,Fruit Fizz,Whiskey Sour,Frequently,5,953.0,Yes,Google Search,"Wrong Order, Late Delivery"
+293,25,Other,Bangalore,₹80k+,Chinese,Minty Lime,Margarita,Frequently,2,922.0,Yes,Zomato,"Late Delivery, High Price"
+294,44,Other,Bangalore,₹60k–80k,Thai,Minty Lime,Whiskey Sour,Frequently,1,655.0,Yes,"Swiggy Ads, Instagram",None
+295,44,Male,Hyderabad,₹40k–60k,Continental,Fruit Fizz,Gin & Tonic,Occasionally,1,794.0,Yes,Zomato,Wrong Order
+296,51,Other,Chennai,₹60k–80k,Indian,Minty Lime,Whiskey Sour,Frequently,1,903.0,Yes,"Zomato, Friend Referral, Instagram","None, Late Delivery"
+297,38,Other,Hyderabad,₹40k–60k,"Italian, Continental",Spicy Guava,Rum Punch,Occasionally,5,1179.0,No,Instagram,"Wrong Order, Late Delivery"
+298,47,Other,Delhi,<₹20k,Mexican,Virgin Mojito,Margarita,Occasionally,4,1057.0,Yes,Instagram,Late Delivery
+299,50,Female,Hyderabad,₹60k–80k,"Indian, Mexican",Spicy Guava,Whiskey Sour,Frequently,2,1188.0,Yes,"Swiggy Ads, Friend Referral",Small Portion
+300,45,Female,Mumbai,₹80k+,"Thai, Indian",Minty Lime,Rum Punch,Frequently,3,1249.0,Yes,Friend Referral,"High Price, Wrong Order"
+301,50,Other,Delhi,₹40k–60k,"Mexican, Continental, Chinese",Fruit Fizz,Margarita,Occasionally,4,1066.0,Yes,"Swiggy Ads, Zomato","Wrong Order, Late Delivery"
+302,22,Other,Delhi,₹80k+,"Indian, Chinese, Mexican",Fruit Fizz,Rum Punch,Occasionally,3,1028.0,Yes,Swiggy Ads,None
+303,36,Female,Chennai,₹20k–40k,Indian,Spicy Guava,Margarita,Frequently,4,805.0,Yes,"Google Search, Zomato, Swiggy Ads","Wrong Order, High Price"
+304,21,Female,Bangalore,₹40k–60k,"Chinese, Continental",Fruit Fizz,Whiskey Sour,Frequently,1,1397.0,No,"Swiggy Ads, Zomato, Instagram",High Price
+305,52,Male,Delhi,₹60k–80k,Continental,Minty Lime,Rum Punch,Occasionally,5,716.0,Yes,"Friend Referral, Swiggy Ads","Wrong Order, None"
+306,34,Male,Bangalore,₹40k–60k,"Thai, Indian, Continental",Spicy Guava,Gin & Tonic,Occasionally,3,1024.0,Yes,Swiggy Ads,Wrong Order
+307,45,Female,Hyderabad,₹80k+,"Continental, Chinese, Mexican",Fruit Fizz,Rum Punch,Occasionally,4,1167.0,No,Swiggy Ads,Small Portion
+308,47,Other,Mumbai,<₹20k,Indian,Virgin Mojito,Margarita,Rarely,5,1169.0,Yes,"Google Search, Zomato, Instagram",None
+309,46,Other,Chennai,₹40k–60k,Chinese,Virgin Mojito,Whiskey Sour,Occasionally,3,769.0,No,"Friend Referral, Zomato",None
+310,23,Other,Bangalore,₹60k–80k,Chinese,Minty Lime,Margarita,Rarely,2,916.0,Yes,"Instagram, Zomato, Google Search",Late Delivery
+311,52,Other,Delhi,₹20k–40k,"Italian, Continental, Mexican",Fruit Fizz,Rum Punch,Frequently,4,840.0,No,"Swiggy Ads, Zomato, Friend Referral","High Price, Small Portion"
+312,58,Male,Bangalore,<₹20k,"Continental, Mexican, Indian",Minty Lime,Rum Punch,Frequently,2,604.0,Yes,"Instagram, Zomato, Friend Referral",High Price
+313,54,Female,Delhi,₹20k–40k,"Italian, Mexican, Indian",Spicy Guava,Gin & Tonic,Occasionally,1,1026.0,No,"Instagram, Zomato, Friend Referral",Wrong Order
+314,41,Other,Bangalore,₹40k–60k,"Continental, Mexican, Indian",Virgin Mojito,Whiskey Sour,Frequently,2,856.0,No,Zomato,Small Portion
+315,46,Male,Delhi,₹80k+,Chinese,Spicy Guava,Whiskey Sour,Frequently,2,1301.0,Yes,"Friend Referral, Instagram, Swiggy Ads","Late Delivery, High Price"
+316,48,Other,Hyderabad,₹80k+,"Indian, Chinese, Thai",Fruit Fizz,Rum Punch,Frequently,4,1123.0,Yes,Zomato,Small Portion
+317,52,Female,Delhi,₹60k–80k,"Mexican, Indian, Italian",Minty Lime,Whiskey Sour,Frequently,1,1008.0,No,"Friend Referral, Instagram, Google Search","Late Delivery, None"
+318,50,Male,Delhi,₹80k+,"Indian, Thai, Italian",Minty Lime,Gin & Tonic,Rarely,2,905.0,Yes,Friend Referral,"Late Delivery, Wrong Order"
+319,38,Female,Mumbai,<₹20k,"Chinese, Mexican, Continental",Minty Lime,Margarita,Rarely,5,1023.0,Yes,Google Search,"None, Small Portion"
+320,49,Female,Delhi,₹80k+,Thai,Spicy Guava,Whiskey Sour,Occasionally,3,949.0,Yes,"Friend Referral, Instagram",None
+321,40,Male,Mumbai,₹60k–80k,Continental,Virgin Mojito,Rum Punch,Occasionally,2,1014.0,No,"Google Search, Instagram",Wrong Order
+322,50,Male,Chennai,₹40k–60k,"Thai, Italian, Continental",Spicy Guava,Margarita,Occasionally,1,1380.0,Yes,"Swiggy Ads, Zomato","Late Delivery, None"
+323,20,Male,Mumbai,₹40k–60k,"Italian, Thai, Mexican",Spicy Guava,Margarita,Frequently,2,787.0,Yes,Google Search,Small Portion
+324,35,Male,Hyderabad,₹80k+,Chinese,Fruit Fizz,Gin & Tonic,Frequently,3,966.0,Yes,"Swiggy Ads, Friend Referral",Wrong Order
+325,42,Male,Mumbai,₹20k–40k,"Italian, Continental, Chinese",Fruit Fizz,Rum Punch,Rarely,1,1141.0,No,"Instagram, Friend Referral, Swiggy Ads","Late Delivery, High Price"
+326,59,Male,Chennai,₹40k–60k,"Italian, Mexican",Fruit Fizz,Whiskey Sour,Rarely,4,920.0,No,"Friend Referral, Google Search, Zomato",None
+327,48,Male,Hyderabad,₹80k+,Continental,Virgin Mojito,Rum Punch,Occasionally,1,1316.0,No,"Zomato, Instagram",Late Delivery
+328,20,Other,Bangalore,₹60k–80k,"Mexican, Indian",Virgin Mojito,Margarita,Rarely,4,1136.0,Yes,"Swiggy Ads, Google Search, Instagram","Small Portion, High Price"
+329,57,Female,Bangalore,₹80k+,"Thai, Continental",Fruit Fizz,Rum Punch,Rarely,1,856.0,No,"Swiggy Ads, Google Search","Small Portion, None"
+330,41,Male,Mumbai,₹40k–60k,"Chinese, Continental",Fruit Fizz,Whiskey Sour,Rarely,3,1041.0,Yes,"Instagram, Friend Referral, Swiggy Ads",High Price
+331,49,Other,Mumbai,₹60k–80k,Indian,Virgin Mojito,Whiskey Sour,Rarely,3,859.0,Yes,Google Search,"High Price, Wrong Order"
+332,39,Other,Chennai,₹80k+,"Indian, Chinese",Minty Lime,Gin & Tonic,Rarely,1,841.0,Yes,Swiggy Ads,Wrong Order
+333,40,Other,Chennai,<₹20k,Thai,Virgin Mojito,Whiskey Sour,Occasionally,2,972.0,Yes,"Friend Referral, Zomato, Google Search",Wrong Order
+334,19,Female,Delhi,₹60k–80k,"Continental, Italian, Chinese",Virgin Mojito,Whiskey Sour,Occasionally,3,1253.0,No,"Google Search, Swiggy Ads, Zomato",Wrong Order
+335,44,Male,Chennai,<₹20k,"Italian, Continental, Mexican",Virgin Mojito,Rum Punch,Rarely,4,1149.0,Yes,Google Search,Late Delivery
+336,59,Other,Delhi,₹20k–40k,Continental,Fruit Fizz,Rum Punch,Occasionally,4,995.0,Yes,"Google Search, Instagram, Swiggy Ads","High Price, Wrong Order"
+337,19,Female,Hyderabad,₹60k–80k,"Chinese, Thai, Italian",Minty Lime,Margarita,Frequently,5,1156.0,No,Google Search,"None, Wrong Order"
+338,43,Female,Mumbai,<₹20k,Thai,Virgin Mojito,Gin & Tonic,Rarely,4,1054.0,No,"Zomato, Swiggy Ads",Wrong Order
+339,34,Female,Hyderabad,₹40k–60k,Italian,Fruit Fizz,Rum Punch,Frequently,5,766.0,Yes,Zomato,"Small Portion, Late Delivery"
+340,57,Other,Chennai,₹40k–60k,Chinese,Spicy Guava,Whiskey Sour,Occasionally,1,971.0,Yes,Google Search,"Wrong Order, High Price"
+341,50,Male,Hyderabad,₹20k–40k,Italian,Spicy Guava,Margarita,Occasionally,1,985.0,No,Friend Referral,High Price
+342,26,Other,Hyderabad,₹60k–80k,Mexican,Virgin Mojito,Rum Punch,Frequently,1,1152.0,Yes,"Zomato, Swiggy Ads, Friend Referral",Small Portion
+343,56,Other,Hyderabad,₹60k–80k,"Mexican, Italian, Continental",Spicy Guava,Gin & Tonic,Occasionally,2,887.0,Yes,"Friend Referral, Swiggy Ads",Small Portion
+344,46,Male,Chennai,₹60k–80k,"Thai, Chinese",Minty Lime,Gin & Tonic,Rarely,2,817.0,Yes,Swiggy Ads,Late Delivery
+345,59,Male,Hyderabad,₹20k–40k,"Mexican, Thai",Spicy Guava,Margarita,Frequently,5,991.0,Yes,"Google Search, Zomato",None
+346,43,Male,Delhi,₹60k–80k,"Italian, Chinese, Indian",Spicy Guava,Margarita,Rarely,4,871.0,No,Swiggy Ads,High Price
+347,52,Female,Chennai,₹40k–60k,"Indian, Continental, Thai",Minty Lime,Margarita,Frequently,4,935.0,Yes,Zomato,"Small Portion, High Price"
+348,42,Male,Hyderabad,<₹20k,"Indian, Continental, Italian",Virgin Mojito,Margarita,Occasionally,1,984.0,Yes,"Swiggy Ads, Zomato",Wrong Order
+349,41,Other,Chennai,₹40k–60k,Italian,Virgin Mojito,Margarita,Frequently,3,923.0,Yes,"Swiggy Ads, Friend Referral",Small Portion
+350,30,Male,Bangalore,₹40k–60k,"Mexican, Thai",Minty Lime,Whiskey Sour,Frequently,2,1193.0,Yes,"Swiggy Ads, Zomato, Google Search","Wrong Order, High Price"
+351,24,Other,Delhi,<₹20k,Indian,Minty Lime,Whiskey Sour,Rarely,2,1283.0,Yes,"Friend Referral, Swiggy Ads",None
+352,53,Female,Hyderabad,₹40k–60k,Italian,Minty Lime,Rum Punch,Occasionally,1,1173.0,Yes,"Swiggy Ads, Friend Referral","Wrong Order, Late Delivery"
+353,37,Other,Bangalore,₹20k–40k,Continental,Spicy Guava,Gin & Tonic,Rarely,2,646.0,Yes,"Instagram, Google Search",Wrong Order
+354,18,Other,Bangalore,<₹20k,Mexican,Minty Lime,Whiskey Sour,Occasionally,1,872.0,Yes,"Swiggy Ads, Instagram, Friend Referral","Wrong Order, Small Portion"
+355,25,Male,Chennai,₹40k–60k,"Italian, Indian, Continental",Fruit Fizz,Whiskey Sour,Rarely,5,964.0,Yes,"Friend Referral, Swiggy Ads, Zomato",None
+356,33,Male,Bangalore,₹80k+,"Continental, Indian",Spicy Guava,Whiskey Sour,Frequently,4,631.0,Yes,Google Search,"Small Portion, Wrong Order"
+357,31,Other,Delhi,₹40k–60k,"Indian, Continental",Virgin Mojito,Rum Punch,Rarely,3,825.0,Yes,Google Search,"High Price, Small Portion"
+358,29,Male,Delhi,₹20k–40k,"Chinese, Italian",Virgin Mojito,Margarita,Occasionally,4,962.0,Yes,"Zomato, Google Search",High Price
+359,40,Female,Mumbai,₹60k–80k,"Chinese, Indian",Virgin Mojito,Rum Punch,Occasionally,4,910.0,No,"Zomato, Instagram, Swiggy Ads","Small Portion, Late Delivery"
+360,32,Female,Delhi,₹40k–60k,"Continental, Indian, Mexican",Spicy Guava,Gin & Tonic,Frequently,5,1002.0,Yes,"Instagram, Friend Referral, Zomato","High Price, None"
+361,45,Male,Bangalore,₹60k–80k,Indian,Fruit Fizz,Gin & Tonic,Occasionally,2,724.0,Yes,"Friend Referral, Google Search, Swiggy Ads",Wrong Order
+362,51,Female,Delhi,₹80k+,Indian,Minty Lime,Gin & Tonic,Rarely,3,908.0,Yes,"Google Search, Friend Referral",High Price
+363,19,Male,Chennai,₹40k–60k,"Chinese, Mexican, Italian",Minty Lime,Gin & Tonic,Frequently,2,1030.0,No,"Zomato, Swiggy Ads, Google Search",Small Portion
+364,49,Other,Mumbai,<₹20k,"Indian, Thai",Virgin Mojito,Whiskey Sour,Occasionally,4,1002.0,Yes,"Friend Referral, Swiggy Ads","Late Delivery, None"
+365,40,Other,Bangalore,₹60k–80k,"Indian, Chinese",Virgin Mojito,Whiskey Sour,Occasionally,1,1089.0,No,"Swiggy Ads, Google Search","High Price, Small Portion"
+366,39,Female,Mumbai,₹80k+,Indian,Spicy Guava,Rum Punch,Rarely,4,1078.0,Yes,Friend Referral,"Late Delivery, None"
+367,42,Male,Bangalore,<₹20k,"Continental, Mexican",Fruit Fizz,Margarita,Rarely,2,919.0,No,"Friend Referral, Google Search, Swiggy Ads","None, Wrong Order"
+368,39,Male,Chennai,<₹20k,Indian,Minty Lime,Gin & Tonic,Frequently,4,1024.0,No,Friend Referral,"Small Portion, None"
+369,39,Female,Mumbai,<₹20k,"Mexican, Continental",Spicy Guava,Rum Punch,Occasionally,1,840.0,Yes,"Swiggy Ads, Instagram, Friend Referral","Wrong Order, Late Delivery"
+370,59,Other,Hyderabad,<₹20k,"Chinese, Indian",Minty Lime,Whiskey Sour,Rarely,5,946.0,Yes,"Friend Referral, Google Search","Late Delivery, Wrong Order"
+371,23,Female,Bangalore,₹40k–60k,"Indian, Continental, Italian",Virgin Mojito,Whiskey Sour,Frequently,2,789.0,Yes,Google Search,High Price
+372,32,Other,Hyderabad,₹40k–60k,"Italian, Mexican, Chinese",Minty Lime,Margarita,Occasionally,4,1213.0,Yes,Swiggy Ads,Small Portion
+373,54,Male,Mumbai,₹40k–60k,"Indian, Italian",Fruit Fizz,Margarita,Occasionally,2,945.0,Yes,"Zomato, Friend Referral",Late Delivery
+374,50,Other,Hyderabad,₹80k+,Chinese,Fruit Fizz,Margarita,Frequently,5,1213.0,Yes,"Zomato, Friend Referral",None
+375,25,Female,Hyderabad,₹80k+,"Mexican, Indian, Thai",Virgin Mojito,Rum Punch,Frequently,4,1062.0,Yes,"Friend Referral, Zomato, Google Search","Late Delivery, Wrong Order"
+376,22,Male,Mumbai,₹80k+,"Mexican, Thai, Continental",Fruit Fizz,Whiskey Sour,Rarely,4,823.0,Yes,Friend Referral,Wrong Order
+377,56,Female,Chennai,₹20k–40k,Continental,Fruit Fizz,Whiskey Sour,Occasionally,2,1050.0,Yes,"Swiggy Ads, Google Search","Late Delivery, Wrong Order"
+378,21,Female,Hyderabad,₹80k+,"Indian, Italian, Thai",Spicy Guava,Margarita,Occasionally,2,1162.0,Yes,Friend Referral,Small Portion
+379,23,Other,Hyderabad,₹40k–60k,Thai,Minty Lime,Gin & Tonic,Occasionally,1,984.0,Yes,"Instagram, Zomato, Friend Referral","Small Portion, None"
+380,49,Female,Chennai,₹40k–60k,"Mexican, Continental",Virgin Mojito,Margarita,Frequently,5,1015.0,No,"Instagram, Zomato","Late Delivery, Small Portion"
+381,47,Other,Hyderabad,₹20k–40k,"Chinese, Italian, Thai",Virgin Mojito,Rum Punch,Rarely,1,890.0,Yes,"Google Search, Zomato, Swiggy Ads",Late Delivery
+382,52,Male,Hyderabad,₹20k–40k,"Thai, Continental, Chinese",Virgin Mojito,Margarita,Occasionally,4,1005.0,No,"Instagram, Google Search",Small Portion
+383,57,Other,Hyderabad,₹80k+,"Continental, Italian",Virgin Mojito,Margarita,Frequently,2,1048.0,Yes,"Google Search, Swiggy Ads","Small Portion, Wrong Order"
+384,33,Male,Delhi,₹60k–80k,"Chinese, Thai",Virgin Mojito,Rum Punch,Occasionally,4,884.0,Yes,Instagram,None
+385,30,Other,Chennai,₹20k–40k,"Italian, Mexican",Fruit Fizz,Margarita,Rarely,4,784.0,Yes,Google Search,Wrong Order
+386,59,Female,Hyderabad,<₹20k,"Italian, Chinese",Spicy Guava,Whiskey Sour,Occasionally,3,1258.0,Yes,"Swiggy Ads, Instagram, Google Search","Small Portion, Late Delivery"
+387,47,Other,Chennai,₹40k–60k,"Mexican, Thai, Continental",Virgin Mojito,Gin & Tonic,Rarely,3,1121.0,No,"Swiggy Ads, Instagram, Zomato","High Price, Small Portion"
+388,36,Other,Bangalore,<₹20k,"Mexican, Indian",Spicy Guava,Margarita,Rarely,4,890.0,Yes,"Swiggy Ads, Zomato","High Price, Wrong Order"
+389,34,Male,Bangalore,₹40k–60k,"Italian, Chinese, Continental",Spicy Guava,Rum Punch,Occasionally,2,1044.0,Yes,Instagram,None
+390,36,Female,Hyderabad,₹40k–60k,"Continental, Mexican",Fruit Fizz,Gin & Tonic,Occasionally,4,704.0,No,Swiggy Ads,"Wrong Order, Late Delivery"
+391,45,Other,Chennai,₹20k–40k,"Thai, Chinese",Virgin Mojito,Rum Punch,Rarely,3,605.0,Yes,"Google Search, Friend Referral, Zomato",Small Portion
+392,43,Female,Chennai,₹20k–40k,Italian,Fruit Fizz,Gin & Tonic,Frequently,2,1217.0,No,Instagram,"High Price, Wrong Order"
+393,54,Other,Chennai,<₹20k,"Continental, Chinese, Italian",Virgin Mojito,Gin & Tonic,Rarely,4,1046.0,No,"Friend Referral, Zomato",None
+394,43,Other,Delhi,₹40k–60k,"Continental, Chinese, Thai",Fruit Fizz,Margarita,Occasionally,5,990.0,Yes,"Instagram, Google Search","Wrong Order, None"
+395,40,Female,Bangalore,<₹20k,Continental,Spicy Guava,Whiskey Sour,Occasionally,5,1047.0,Yes,"Zomato, Instagram",Wrong Order
+396,26,Other,Chennai,₹60k–80k,"Indian, Mexican",Virgin Mojito,Margarita,Frequently,4,1500.0,Yes,"Google Search, Friend Referral",Wrong Order
+397,29,Female,Chennai,<₹20k,Thai,Minty Lime,Rum Punch,Rarely,2,1174.0,Yes,Friend Referral,None
+398,18,Other,Delhi,₹80k+,"Indian, Thai, Continental",Spicy Guava,Rum Punch,Rarely,4,791.0,Yes,"Friend Referral, Google Search, Zomato",High Price
+399,18,Male,Delhi,<₹20k,"Indian, Italian, Chinese",Minty Lime,Gin & Tonic,Rarely,4,664.0,No,Zomato,High Price
+400,51,Female,Chennai,₹80k+,"Chinese, Italian, Mexican",Spicy Guava,Gin & Tonic,Occasionally,3,1211.0,No,"Swiggy Ads, Instagram","Small Portion, High Price"
+401,49,Other,Mumbai,₹80k+,Italian,Fruit Fizz,Whiskey Sour,Rarely,5,1171.0,Yes,Zomato,"None, Small Portion"
+402,42,Other,Chennai,₹80k+,"Italian, Thai, Mexican",Virgin Mojito,Margarita,Frequently,3,1115.0,Yes,"Google Search, Instagram","Small Portion, Late Delivery"
+403,57,Male,Chennai,₹60k–80k,"Continental, Mexican, Chinese",Spicy Guava,Rum Punch,Occasionally,3,837.0,Yes,Swiggy Ads,Late Delivery
+404,18,Female,Delhi,<₹20k,"Italian, Mexican, Indian",Fruit Fizz,Gin & Tonic,Occasionally,4,1073.0,Yes,"Friend Referral, Instagram",Small Portion
+405,33,Other,Delhi,<₹20k,Continental,Virgin Mojito,Whiskey Sour,Rarely,3,855.0,No,"Instagram, Swiggy Ads","Small Portion, High Price"
+406,56,Male,Chennai,₹60k–80k,"Mexican, Chinese, Thai",Virgin Mojito,Rum Punch,Frequently,5,1133.0,Yes,"Friend Referral, Zomato","None, Small Portion"
+407,22,Other,Chennai,₹40k–60k,"Indian, Thai, Continental",Spicy Guava,Gin & Tonic,Occasionally,3,1197.0,Yes,"Swiggy Ads, Instagram","Small Portion, High Price"
+408,39,Female,Chennai,₹20k–40k,"Chinese, Indian",Virgin Mojito,Rum Punch,Occasionally,5,891.0,Yes,"Swiggy Ads, Zomato, Google Search","None, Small Portion"
+409,46,Other,Delhi,<₹20k,"Italian, Chinese, Mexican",Spicy Guava,Whiskey Sour,Rarely,3,1226.0,No,Swiggy Ads,"Late Delivery, Small Portion"
+410,20,Other,Chennai,₹20k–40k,"Chinese, Thai",Virgin Mojito,Whiskey Sour,Rarely,5,1023.0,Yes,"Friend Referral, Zomato, Instagram",Small Portion
+411,29,Other,Chennai,₹60k–80k,"Indian, Chinese, Continental",Minty Lime,Rum Punch,Frequently,3,1098.0,No,"Google Search, Friend Referral","Small Portion, Late Delivery"
+412,43,Other,Hyderabad,₹40k–60k,Indian,Fruit Fizz,Margarita,Rarely,3,738.0,Yes,Swiggy Ads,"High Price, Late Delivery"
+413,33,Male,Mumbai,₹40k–60k,"Indian, Chinese",Minty Lime,Rum Punch,Frequently,2,1046.0,No,"Swiggy Ads, Google Search, Friend Referral",Small Portion
+414,54,Male,Bangalore,₹40k–60k,Continental,Spicy Guava,Gin & Tonic,Occasionally,5,865.0,Yes,Friend Referral,High Price
+415,39,Female,Mumbai,₹60k–80k,Indian,Minty Lime,Margarita,Frequently,5,1095.0,Yes,"Swiggy Ads, Zomato","Wrong Order, Small Portion"
+416,46,Male,Hyderabad,₹80k+,"Mexican, Indian",Spicy Guava,Gin & Tonic,Frequently,5,1293.0,No,"Instagram, Google Search",Late Delivery
+417,31,Male,Bangalore,₹80k+,"Italian, Mexican",Virgin Mojito,Rum Punch,Frequently,1,1058.0,Yes,"Swiggy Ads, Zomato, Friend Referral","High Price, Small Portion"
+418,45,Female,Chennai,₹20k–40k,Continental,Virgin Mojito,Margarita,Occasionally,3,820.0,Yes,"Zomato, Google Search, Friend Referral",Small Portion
+419,22,Male,Hyderabad,₹80k+,"Italian, Continental, Mexican",Spicy Guava,Gin & Tonic,Rarely,5,1125.0,Yes,Friend Referral,"Late Delivery, None"
+420,47,Male,Chennai,₹80k+,"Chinese, Italian",Minty Lime,Rum Punch,Occasionally,1,1080.0,No,"Google Search, Swiggy Ads","Wrong Order, Small Portion"
+421,22,Female,Delhi,₹40k–60k,"Thai, Continental",Virgin Mojito,Rum Punch,Rarely,2,1412.0,No,"Google Search, Swiggy Ads, Zomato",High Price
+422,29,Female,Hyderabad,₹40k–60k,"Continental, Thai",Fruit Fizz,Margarita,Frequently,5,1051.0,Yes,"Zomato, Google Search, Friend Referral",Late Delivery
+423,33,Female,Delhi,₹20k–40k,"Indian, Mexican, Continental",Virgin Mojito,Rum Punch,Frequently,5,883.0,Yes,"Swiggy Ads, Google Search, Instagram","None, Small Portion"
+424,43,Other,Hyderabad,<₹20k,"Italian, Continental",Fruit Fizz,Whiskey Sour,Frequently,1,1154.0,No,"Friend Referral, Google Search, Zomato",Wrong Order
+425,43,Other,Hyderabad,₹20k–40k,Italian,Minty Lime,Gin & Tonic,Frequently,3,974.0,Yes,Instagram,"High Price, Late Delivery"
+426,38,Female,Delhi,₹20k–40k,"Mexican, Continental, Indian",Fruit Fizz,Gin & Tonic,Frequently,2,1016.0,No,"Zomato, Google Search, Instagram",None
+427,56,Female,Bangalore,₹60k–80k,"Continental, Thai",Fruit Fizz,Rum Punch,Rarely,5,814.0,Yes,Instagram,Small Portion
+428,53,Female,Mumbai,₹60k–80k,"Italian, Mexican, Indian",Fruit Fizz,Rum Punch,Rarely,3,976.0,No,Instagram,"Wrong Order, Small Portion"
+429,50,Other,Chennai,₹20k–40k,"Indian, Mexican",Fruit Fizz,Whiskey Sour,Frequently,2,1006.0,No,Google Search,"Wrong Order, Late Delivery"
+430,47,Other,Hyderabad,₹20k–40k,Mexican,Virgin Mojito,Margarita,Occasionally,4,974.0,No,"Friend Referral, Swiggy Ads","None, High Price"
+431,54,Male,Chennai,₹20k–40k,"Thai, Indian",Fruit Fizz,Rum Punch,Occasionally,4,882.0,Yes,Friend Referral,"None, Small Portion"
+432,40,Male,Delhi,₹80k+,Chinese,Virgin Mojito,Rum Punch,Frequently,2,1058.0,Yes,Instagram,"High Price, Small Portion"
+433,27,Female,Chennai,₹60k–80k,"Continental, Indian, Mexican",Fruit Fizz,Rum Punch,Rarely,1,815.0,Yes,"Google Search, Instagram","Wrong Order, High Price"
+434,22,Other,Delhi,₹20k–40k,"Continental, Italian",Spicy Guava,Rum Punch,Occasionally,2,768.0,Yes,Instagram,"High Price, None"
+435,53,Other,Chennai,₹40k–60k,Thai,Minty Lime,Gin & Tonic,Occasionally,2,1142.0,Yes,"Google Search, Zomato",High Price
+436,51,Other,Mumbai,₹40k–60k,"Indian, Italian",Fruit Fizz,Rum Punch,Occasionally,1,1124.0,Yes,Swiggy Ads,"Late Delivery, High Price"
+437,48,Female,Mumbai,₹80k+,"Thai, Mexican",Spicy Guava,Gin & Tonic,Frequently,1,738.0,No,Zomato,Small Portion
+438,27,Male,Mumbai,₹80k+,Thai,Fruit Fizz,Rum Punch,Occasionally,3,634.0,Yes,"Friend Referral, Instagram, Swiggy Ads",None
+439,36,Female,Mumbai,<₹20k,"Indian, Continental",Fruit Fizz,Margarita,Occasionally,3,798.0,Yes,"Google Search, Zomato",High Price
+440,49,Male,Mumbai,<₹20k,"Chinese, Thai, Indian",Fruit Fizz,Whiskey Sour,Occasionally,1,974.0,Yes,"Swiggy Ads, Zomato","None, Small Portion"
+441,18,Male,Mumbai,<₹20k,"Mexican, Indian, Chinese",Spicy Guava,Margarita,Occasionally,4,1231.0,Yes,Zomato,"Wrong Order, High Price"
+442,22,Female,Delhi,₹80k+,"Italian, Thai",Minty Lime,Rum Punch,Rarely,4,969.0,Yes,"Friend Referral, Zomato, Swiggy Ads","High Price, Late Delivery"
+443,21,Male,Hyderabad,₹80k+,"Thai, Indian",Spicy Guava,Rum Punch,Frequently,2,846.0,Yes,"Zomato, Google Search, Swiggy Ads",Wrong Order
+444,33,Male,Chennai,₹80k+,"Thai, Indian",Minty Lime,Rum Punch,Frequently,5,1030.0,No,"Friend Referral, Instagram",Late Delivery
+445,41,Other,Mumbai,₹40k–60k,"Thai, Mexican, Chinese",Fruit Fizz,Margarita,Rarely,2,977.0,Yes,Google Search,"None, Small Portion"
+446,33,Male,Delhi,₹80k+,"Italian, Chinese",Virgin Mojito,Rum Punch,Rarely,2,724.0,Yes,"Friend Referral, Google Search, Swiggy Ads",None
+447,19,Female,Delhi,₹40k–60k,Italian,Fruit Fizz,Margarita,Frequently,5,725.0,Yes,Instagram,"Wrong Order, High Price"
+448,45,Female,Delhi,<₹20k,"Italian, Mexican, Indian",Minty Lime,Gin & Tonic,Occasionally,1,730.0,No,"Friend Referral, Swiggy Ads, Google Search",Wrong Order
+449,49,Male,Hyderabad,<₹20k,"Chinese, Indian, Continental",Spicy Guava,Whiskey Sour,Occasionally,4,1496.0,Yes,"Instagram, Friend Referral, Swiggy Ads",Late Delivery
+450,44,Other,Chennai,<₹20k,"Mexican, Chinese",Fruit Fizz,Whiskey Sour,Frequently,2,1172.0,No,Friend Referral,None
+451,37,Other,Hyderabad,₹20k–40k,Mexican,Spicy Guava,Margarita,Occasionally,5,881.0,Yes,Swiggy Ads,"Wrong Order, Late Delivery"
+452,41,Male,Bangalore,₹20k–40k,"Continental, Chinese, Mexican",Spicy Guava,Gin & Tonic,Rarely,3,1222.0,No,Instagram,Late Delivery
+453,29,Male,Delhi,₹60k–80k,Italian,Spicy Guava,Margarita,Occasionally,2,886.0,Yes,"Google Search, Instagram, Zomato","Late Delivery, Small Portion"
+454,52,Female,Bangalore,₹60k–80k,Chinese,Fruit Fizz,Gin & Tonic,Occasionally,4,1215.0,Yes,"Instagram, Swiggy Ads","High Price, None"
+455,50,Male,Mumbai,₹60k–80k,"Continental, Thai",Spicy Guava,Rum Punch,Occasionally,1,1016.0,Yes,"Friend Referral, Zomato, Swiggy Ads",High Price
+456,50,Other,Mumbai,₹20k–40k,"Chinese, Mexican",Spicy Guava,Gin & Tonic,Frequently,2,868.0,Yes,"Friend Referral, Swiggy Ads","High Price, None"
+457,54,Male,Hyderabad,₹20k–40k,"Indian, Continental, Chinese",Fruit Fizz,Gin & Tonic,Rarely,2,1136.0,Yes,"Swiggy Ads, Zomato, Friend Referral","None, Wrong Order"
+458,29,Female,Chennai,₹60k–80k,Chinese,Spicy Guava,Gin & Tonic,Occasionally,5,1028.0,No,Swiggy Ads,Late Delivery
+459,20,Female,Bangalore,₹60k–80k,"Thai, Continental, Indian",Fruit Fizz,Whiskey Sour,Frequently,3,1080.0,Yes,Zomato,Late Delivery
+460,18,Female,Chennai,₹80k+,"Mexican, Italian",Minty Lime,Gin & Tonic,Occasionally,3,1043.0,No,"Swiggy Ads, Instagram",High Price
+461,50,Female,Hyderabad,₹60k–80k,"Mexican, Indian, Italian",Minty Lime,Rum Punch,Rarely,1,1041.0,No,"Zomato, Friend Referral, Instagram","None, Small Portion"
+462,57,Female,Mumbai,₹80k+,"Thai, Indian, Mexican",Minty Lime,Rum Punch,Occasionally,4,1160.0,Yes,"Zomato, Swiggy Ads","Small Portion, Late Delivery"
+463,27,Male,Chennai,₹40k–60k,"Indian, Italian",Spicy Guava,Rum Punch,Rarely,1,1500.0,No,"Google Search, Swiggy Ads",None
+464,46,Male,Chennai,₹20k–40k,"Thai, Mexican",Virgin Mojito,Gin & Tonic,Occasionally,2,1250.0,Yes,"Google Search, Zomato, Instagram",None
+465,30,Male,Mumbai,₹60k–80k,Indian,Virgin Mojito,Margarita,Rarely,2,1044.0,Yes,"Friend Referral, Instagram",Late Delivery
+466,29,Male,Bangalore,₹20k–40k,Italian,Spicy Guava,Margarita,Occasionally,3,938.0,No,"Friend Referral, Instagram",High Price
+467,48,Female,Mumbai,₹20k–40k,"Italian, Mexican, Thai",Virgin Mojito,Rum Punch,Rarely,4,960.0,Yes,"Zomato, Swiggy Ads, Google Search",Wrong Order
+468,19,Other,Chennai,₹20k–40k,"Chinese, Continental, Indian",Fruit Fizz,Whiskey Sour,Occasionally,5,749.0,Yes,"Friend Referral, Instagram, Swiggy Ads",Wrong Order
+469,52,Male,Bangalore,₹40k–60k,Chinese,Virgin Mojito,Margarita,Occasionally,4,1133.0,Yes,Swiggy Ads,"High Price, Small Portion"
+470,40,Other,Bangalore,<₹20k,Thai,Spicy Guava,Gin & Tonic,Frequently,2,797.0,Yes,Zomato,"None, Small Portion"
+471,34,Male,Mumbai,₹60k–80k,Continental,Spicy Guava,Margarita,Frequently,5,926.0,No,Zomato,High Price
+472,43,Male,Chennai,<₹20k,Mexican,Fruit Fizz,Rum Punch,Rarely,4,1134.0,Yes,Instagram,"Small Portion, Late Delivery"
+473,25,Other,Hyderabad,<₹20k,"Thai, Italian, Continental",Minty Lime,Whiskey Sour,Occasionally,4,953.0,Yes,"Friend Referral, Swiggy Ads","Late Delivery, Wrong Order"
+474,46,Female,Chennai,<₹20k,"Indian, Chinese",Spicy Guava,Margarita,Rarely,5,902.0,Yes,"Friend Referral, Swiggy Ads",High Price
+475,43,Male,Delhi,₹20k–40k,"Mexican, Indian, Thai",Fruit Fizz,Margarita,Frequently,2,761.0,Yes,Google Search,"None, High Price"
+476,27,Male,Hyderabad,₹80k+,Chinese,Virgin Mojito,Rum Punch,Rarely,4,1241.0,Yes,Friend Referral,High Price
+477,43,Male,Bangalore,₹20k–40k,Italian,Virgin Mojito,Whiskey Sour,Rarely,5,833.0,Yes,Swiggy Ads,"Small Portion, None"
+478,51,Other,Hyderabad,₹20k–40k,Continental,Fruit Fizz,Whiskey Sour,Frequently,2,883.0,Yes,"Swiggy Ads, Friend Referral, Google Search",Late Delivery
+479,58,Female,Bangalore,<₹20k,"Mexican, Indian, Italian",Fruit Fizz,Rum Punch,Occasionally,5,642.0,Yes,"Friend Referral, Instagram",Wrong Order
+480,24,Other,Bangalore,₹20k–40k,Thai,Spicy Guava,Gin & Tonic,Rarely,5,996.0,No,"Zomato, Google Search, Swiggy Ads","Late Delivery, Wrong Order"
+481,21,Other,Hyderabad,<₹20k,Indian,Virgin Mojito,Margarita,Frequently,4,933.0,Yes,"Instagram, Google Search, Swiggy Ads","Wrong Order, None"
+482,28,Female,Bangalore,₹80k+,"Continental, Italian, Indian",Fruit Fizz,Gin & Tonic,Occasionally,2,1036.0,No,"Swiggy Ads, Friend Referral, Instagram","Wrong Order, None"
+483,46,Other,Bangalore,₹60k–80k,"Chinese, Italian",Virgin Mojito,Margarita,Frequently,4,765.0,No,Google Search,Wrong Order
+484,53,Female,Delhi,<₹20k,Mexican,Fruit Fizz,Margarita,Rarely,1,1147.0,No,"Google Search, Friend Referral, Swiggy Ads",High Price
+485,42,Male,Chennai,₹80k+,Chinese,Virgin Mojito,Gin & Tonic,Occasionally,1,632.0,No,"Friend Referral, Google Search, Zomato","High Price, Wrong Order"
+486,38,Female,Chennai,₹60k–80k,"Mexican, Continental, Thai",Minty Lime,Rum Punch,Occasionally,2,982.0,Yes,"Google Search, Zomato","Small Portion, Wrong Order"
+487,53,Male,Delhi,₹40k–60k,Indian,Spicy Guava,Rum Punch,Frequently,5,1023.0,Yes,Zomato,Late Delivery
+488,27,Other,Hyderabad,<₹20k,Mexican,Virgin Mojito,Margarita,Frequently,4,1012.0,Yes,"Zomato, Swiggy Ads, Instagram","Wrong Order, Small Portion"
+489,54,Other,Mumbai,<₹20k,"Continental, Thai, Indian",Minty Lime,Rum Punch,Frequently,4,1032.0,Yes,Zomato,"None, Small Portion"
+490,26,Male,Mumbai,₹40k–60k,Continental,Virgin Mojito,Margarita,Occasionally,2,1158.0,No,"Friend Referral, Instagram",Late Delivery
+491,41,Other,Mumbai,₹40k–60k,Thai,Virgin Mojito,Rum Punch,Occasionally,2,1265.0,Yes,"Google Search, Swiggy Ads, Friend Referral","Wrong Order, High Price"
+492,52,Female,Delhi,<₹20k,Indian,Minty Lime,Margarita,Rarely,1,969.0,No,"Zomato, Instagram, Swiggy Ads","None, Late Delivery"
+493,52,Male,Delhi,₹40k–60k,"Thai, Indian",Virgin Mojito,Rum Punch,Occasionally,3,806.0,Yes,"Swiggy Ads, Zomato",Late Delivery
+494,53,Other,Bangalore,₹20k–40k,"Chinese, Continental, Mexican",Virgin Mojito,Whiskey Sour,Rarely,2,1112.0,No,Friend Referral,"Small Portion, High Price"
+495,35,Male,Mumbai,₹60k–80k,"Italian, Chinese, Continental",Spicy Guava,Gin & Tonic,Frequently,3,944.0,Yes,"Friend Referral, Zomato, Instagram",Small Portion
+496,56,Female,Hyderabad,₹60k–80k,"Indian, Mexican",Minty Lime,Whiskey Sour,Frequently,2,1253.0,Yes,Instagram,"Wrong Order, Late Delivery"
+497,49,Female,Hyderabad,₹60k–80k,Italian,Minty Lime,Gin & Tonic,Occasionally,5,880.0,Yes,"Friend Referral, Zomato","Wrong Order, High Price"
+498,41,Other,Mumbai,₹20k–40k,"Indian, Chinese",Fruit Fizz,Gin & Tonic,Frequently,5,828.0,No,"Zomato, Instagram, Swiggy Ads",Wrong Order
+499,40,Female,Mumbai,₹40k–60k,"Continental, Italian, Mexican",Virgin Mojito,Margarita,Frequently,1,1029.0,Yes,"Google Search, Friend Referral",None
+500,49,Male,Mumbai,₹80k+,"Thai, Chinese",Spicy Guava,Gin & Tonic,Occasionally,1,652.0,No,"Swiggy Ads, Friend Referral, Instagram","Late Delivery, Wrong Order"
+501,54,Female,Delhi,₹40k–60k,"Chinese, Mexican, Thai",Virgin Mojito,Whiskey Sour,Rarely,3,907.0,No,Instagram,None
+502,29,Male,Delhi,<₹20k,"Continental, Chinese, Thai",Virgin Mojito,Whiskey Sour,Occasionally,2,934.0,No,"Instagram, Friend Referral, Zomato","Small Portion, None"
+503,30,Male,Delhi,₹60k–80k,"Thai, Italian, Mexican",Fruit Fizz,Rum Punch,Rarely,4,1044.0,Yes,"Instagram, Friend Referral","Wrong Order, Small Portion"
+504,40,Female,Chennai,₹40k–60k,Mexican,Virgin Mojito,Whiskey Sour,Occasionally,1,801.0,No,Instagram,"Wrong Order, None"
+505,42,Other,Hyderabad,₹80k+,"Indian, Mexican, Continental",Spicy Guava,Rum Punch,Occasionally,4,824.0,No,Google Search,Wrong Order
+506,52,Female,Hyderabad,<₹20k,"Indian, Chinese, Continental",Spicy Guava,Gin & Tonic,Frequently,4,1231.0,Yes,"Zomato, Swiggy Ads, Google Search",None
+507,58,Male,Bangalore,₹20k–40k,"Italian, Mexican",Fruit Fizz,Whiskey Sour,Occasionally,2,997.0,Yes,"Swiggy Ads, Zomato, Friend Referral",Late Delivery
+508,47,Male,Delhi,₹20k–40k,"Mexican, Italian",Virgin Mojito,Gin & Tonic,Occasionally,3,1173.0,Yes,"Friend Referral, Google Search, Zomato",Late Delivery
+509,34,Female,Chennai,₹80k+,"Thai, Continental",Spicy Guava,Whiskey Sour,Rarely,2,892.0,Yes,"Google Search, Friend Referral, Instagram",High Price
+510,37,Other,Chennai,<₹20k,"Italian, Mexican",Virgin Mojito,Whiskey Sour,Frequently,1,989.0,Yes,"Swiggy Ads, Zomato, Instagram","None, Late Delivery"
+511,42,Other,Hyderabad,₹60k–80k,"Mexican, Continental, Chinese",Virgin Mojito,Rum Punch,Rarely,4,1043.0,No,Friend Referral,Wrong Order
+512,39,Male,Delhi,₹40k–60k,"Italian, Indian",Virgin Mojito,Gin & Tonic,Rarely,2,1350.0,Yes,Google Search,Wrong Order
+513,30,Male,Bangalore,<₹20k,"Mexican, Italian, Indian",Fruit Fizz,Whiskey Sour,Frequently,2,956.0,Yes,"Friend Referral, Zomato",Wrong Order
+514,36,Other,Delhi,₹20k–40k,"Continental, Italian",Virgin Mojito,Margarita,Frequently,2,967.0,No,"Instagram, Google Search, Swiggy Ads",High Price
+515,53,Female,Mumbai,₹80k+,"Italian, Thai",Spicy Guava,Gin & Tonic,Frequently,1,1220.0,Yes,"Instagram, Google Search","Small Portion, None"
+516,29,Male,Delhi,₹80k+,"Chinese, Italian, Thai",Virgin Mojito,Gin & Tonic,Occasionally,3,924.0,No,Friend Referral,Late Delivery
+517,58,Male,Mumbai,₹40k–60k,Thai,Spicy Guava,Gin & Tonic,Frequently,2,1057.0,Yes,"Swiggy Ads, Instagram, Zomato","Small Portion, High Price"
+518,36,Other,Mumbai,₹80k+,Italian,Virgin Mojito,Rum Punch,Frequently,1,1202.0,Yes,Swiggy Ads,Small Portion
+519,29,Female,Bangalore,₹80k+,"Chinese, Italian",Spicy Guava,Margarita,Frequently,4,885.0,Yes,Swiggy Ads,"Wrong Order, Small Portion"
+520,26,Other,Hyderabad,<₹20k,"Continental, Mexican, Italian",Spicy Guava,Gin & Tonic,Rarely,5,1068.0,Yes,"Google Search, Instagram, Zomato","High Price, Wrong Order"
+521,24,Female,Delhi,₹60k–80k,"Thai, Mexican",Virgin Mojito,Whiskey Sour,Rarely,1,1349.0,Yes,"Friend Referral, Zomato",Wrong Order
+522,45,Female,Mumbai,₹40k–60k,"Continental, Chinese, Thai",Virgin Mojito,Whiskey Sour,Occasionally,5,1184.0,No,"Swiggy Ads, Friend Referral","High Price, Wrong Order"
+523,31,Female,Delhi,<₹20k,"Italian, Chinese, Continental",Spicy Guava,Rum Punch,Rarely,2,1057.0,Yes,Swiggy Ads,Late Delivery
+524,48,Male,Hyderabad,₹60k–80k,"Thai, Continental, Italian",Minty Lime,Whiskey Sour,Occasionally,2,955.0,No,Instagram,Wrong Order
+525,36,Other,Hyderabad,<₹20k,Mexican,Fruit Fizz,Gin & Tonic,Rarely,1,879.0,Yes,"Zomato, Swiggy Ads, Instagram","Small Portion, Wrong Order"
+526,33,Other,Chennai,<₹20k,"Thai, Chinese, Indian",Minty Lime,Whiskey Sour,Frequently,5,802.0,Yes,Swiggy Ads,Late Delivery
+527,22,Female,Hyderabad,₹80k+,"Continental, Italian, Chinese",Minty Lime,Gin & Tonic,Rarely,2,1302.0,Yes,"Instagram, Swiggy Ads",High Price
+528,52,Male,Bangalore,₹60k–80k,Thai,Virgin Mojito,Whiskey Sour,Occasionally,4,1263.0,Yes,Zomato,Late Delivery
+529,29,Male,Mumbai,₹40k–60k,"Italian, Chinese, Mexican",Fruit Fizz,Margarita,Rarely,3,869.0,No,Friend Referral,None
+530,42,Other,Chennai,₹40k–60k,"Chinese, Mexican",Minty Lime,Rum Punch,Frequently,3,1068.0,No,"Friend Referral, Instagram, Zomato","Small Portion, Late Delivery"
+531,38,Male,Bangalore,₹60k–80k,"Continental, Italian",Virgin Mojito,Rum Punch,Occasionally,2,1022.0,No,Instagram,Late Delivery
+532,53,Male,Delhi,₹80k+,"Mexican, Thai, Italian",Minty Lime,Margarita,Frequently,5,1237.0,Yes,"Zomato, Swiggy Ads, Friend Referral","Wrong Order, None"
+533,40,Female,Mumbai,₹20k–40k,Italian,Minty Lime,Margarita,Frequently,2,1077.0,Yes,"Friend Referral, Instagram, Zomato",High Price
+534,33,Male,Hyderabad,<₹20k,"Indian, Italian, Continental",Virgin Mojito,Rum Punch,Occasionally,5,995.0,Yes,"Instagram, Swiggy Ads, Zomato",High Price
+535,56,Female,Mumbai,₹80k+,"Thai, Mexican",Virgin Mojito,Margarita,Frequently,4,892.0,No,"Zomato, Instagram",Small Portion
+536,59,Other,Delhi,₹60k–80k,Indian,Virgin Mojito,Gin & Tonic,Frequently,5,1068.0,Yes,Friend Referral,"High Price, Small Portion"
+537,56,Male,Chennai,<₹20k,Italian,Fruit Fizz,Whiskey Sour,Rarely,2,930.0,Yes,Instagram,Small Portion
+538,31,Other,Chennai,₹40k–60k,"Mexican, Thai",Minty Lime,Rum Punch,Frequently,4,1044.0,Yes,"Instagram, Zomato, Swiggy Ads","High Price, None"
+539,48,Other,Chennai,₹20k–40k,"Italian, Thai, Mexican",Virgin Mojito,Margarita,Frequently,1,985.0,Yes,"Google Search, Zomato, Instagram","Late Delivery, Wrong Order"
+540,22,Male,Hyderabad,₹40k–60k,Italian,Spicy Guava,Gin & Tonic,Frequently,3,926.0,Yes,Swiggy Ads,"Late Delivery, Small Portion"
+541,52,Male,Bangalore,₹60k–80k,Mexican,Minty Lime,Rum Punch,Frequently,2,805.0,Yes,"Friend Referral, Instagram, Swiggy Ads","None, Wrong Order"
+542,40,Other,Bangalore,<₹20k,"Mexican, Thai, Indian",Spicy Guava,Margarita,Occasionally,2,1103.0,No,"Friend Referral, Zomato, Swiggy Ads","Wrong Order, Small Portion"
+543,46,Male,Mumbai,₹60k–80k,"Mexican, Continental",Fruit Fizz,Rum Punch,Rarely,2,1009.0,No,"Friend Referral, Instagram",High Price
+544,28,Female,Hyderabad,<₹20k,"Indian, Chinese",Virgin Mojito,Margarita,Frequently,4,1357.0,Yes,"Friend Referral, Zomato, Google Search",Wrong Order
+545,35,Female,Chennai,₹80k+,Indian,Spicy Guava,Rum Punch,Frequently,1,794.0,Yes,"Google Search, Instagram, Zomato",High Price
+546,29,Male,Chennai,₹20k–40k,"Indian, Continental",Fruit Fizz,Gin & Tonic,Occasionally,5,1125.0,Yes,"Friend Referral, Instagram",None
+547,26,Other,Delhi,₹80k+,Italian,Virgin Mojito,Gin & Tonic,Frequently,1,983.0,No,Google Search,"Small Portion, None"
+548,27,Male,Delhi,₹80k+,Thai,Spicy Guava,Whiskey Sour,Occasionally,4,1420.0,No,Swiggy Ads,"High Price, Wrong Order"
+549,34,Male,Chennai,₹60k–80k,"Italian, Chinese, Indian",Spicy Guava,Rum Punch,Rarely,2,1110.0,No,"Zomato, Friend Referral, Swiggy Ads",Small Portion
+550,55,Other,Chennai,₹20k–40k,"Continental, Mexican, Chinese",Fruit Fizz,Whiskey Sour,Rarely,3,1065.0,No,Swiggy Ads,Wrong Order
+551,24,Other,Hyderabad,<₹20k,Continental,Virgin Mojito,Rum Punch,Frequently,2,984.0,Yes,"Google Search, Friend Referral, Instagram","None, Late Delivery"
+552,30,Female,Bangalore,<₹20k,"Indian, Continental, Thai",Virgin Mojito,Margarita,Frequently,5,859.0,No,"Google Search, Zomato, Instagram",Late Delivery
+553,57,Other,Delhi,₹40k–60k,"Thai, Italian",Spicy Guava,Margarita,Frequently,3,1062.0,Yes,Swiggy Ads,Late Delivery
+554,59,Female,Bangalore,<₹20k,"Mexican, Chinese",Spicy Guava,Whiskey Sour,Occasionally,2,724.0,Yes,Google Search,Late Delivery
+555,26,Other,Hyderabad,₹60k–80k,Chinese,Spicy Guava,Rum Punch,Frequently,3,733.0,No,"Zomato, Instagram",None
+556,44,Male,Chennai,₹80k+,"Thai, Continental, Italian",Virgin Mojito,Whiskey Sour,Frequently,1,1202.0,Yes,"Instagram, Friend Referral, Google Search","None, Late Delivery"
+557,19,Female,Bangalore,₹80k+,"Italian, Chinese, Thai",Fruit Fizz,Gin & Tonic,Rarely,4,648.0,Yes,"Swiggy Ads, Google Search, Instagram",High Price
+558,22,Female,Chennai,₹80k+,Thai,Fruit Fizz,Whiskey Sour,Frequently,2,936.0,Yes,"Swiggy Ads, Zomato, Instagram","None, Late Delivery"
+559,46,Female,Chennai,₹20k–40k,"Italian, Chinese, Thai",Virgin Mojito,Whiskey Sour,Rarely,5,790.0,Yes,Friend Referral,Small Portion
+560,54,Male,Mumbai,<₹20k,"Chinese, Thai",Minty Lime,Margarita,Frequently,1,920.0,No,"Instagram, Friend Referral",Small Portion
+561,55,Male,Bangalore,₹60k–80k,"Indian, Chinese, Continental",Fruit Fizz,Whiskey Sour,Rarely,2,1037.0,Yes,"Friend Referral, Zomato","Late Delivery, Wrong Order"
+562,36,Male,Bangalore,₹20k–40k,"Continental, Thai, Italian",Spicy Guava,Rum Punch,Frequently,1,1197.0,Yes,"Swiggy Ads, Google Search",High Price
+563,25,Male,Chennai,₹40k–60k,"Indian, Continental",Minty Lime,Margarita,Rarely,5,1244.0,Yes,"Google Search, Zomato, Friend Referral",None
+564,18,Male,Hyderabad,₹60k–80k,Mexican,Minty Lime,Whiskey Sour,Occasionally,2,816.0,Yes,Friend Referral,"High Price, Wrong Order"
+565,39,Female,Mumbai,₹60k–80k,Chinese,Fruit Fizz,Gin & Tonic,Rarely,5,907.0,Yes,Google Search,"Late Delivery, Small Portion"
+566,34,Male,Chennai,₹60k–80k,"Thai, Chinese",Minty Lime,Whiskey Sour,Rarely,3,1500.0,Yes,Friend Referral,Wrong Order
+567,24,Female,Delhi,₹80k+,Chinese,Minty Lime,Whiskey Sour,Rarely,5,950.0,Yes,Friend Referral,Wrong Order
+568,42,Male,Delhi,₹60k–80k,"Indian, Continental",Fruit Fizz,Whiskey Sour,Frequently,3,824.0,No,"Instagram, Zomato","Small Portion, High Price"
+569,21,Other,Mumbai,<₹20k,Continental,Fruit Fizz,Margarita,Frequently,2,857.0,No,Google Search,Wrong Order
+570,53,Female,Hyderabad,₹60k–80k,"Mexican, Thai",Minty Lime,Rum Punch,Frequently,3,951.0,Yes,"Friend Referral, Zomato, Instagram","Wrong Order, None"
+571,23,Other,Chennai,₹80k+,"Mexican, Continental, Chinese",Spicy Guava,Gin & Tonic,Occasionally,2,921.0,Yes,"Zomato, Google Search, Instagram",High Price
+572,48,Female,Bangalore,₹60k–80k,Indian,Virgin Mojito,Whiskey Sour,Occasionally,2,953.0,Yes,Swiggy Ads,"Wrong Order, None"
+573,36,Other,Mumbai,₹40k–60k,Mexican,Minty Lime,Rum Punch,Rarely,4,996.0,No,"Instagram, Zomato, Google Search",Small Portion
+574,56,Male,Hyderabad,₹40k–60k,"Mexican, Continental, Chinese",Minty Lime,Rum Punch,Occasionally,2,994.0,Yes,"Instagram, Zomato, Friend Referral",Small Portion
+575,44,Male,Bangalore,₹80k+,"Mexican, Thai, Continental",Spicy Guava,Margarita,Rarely,3,809.0,No,"Instagram, Zomato, Swiggy Ads","High Price, Small Portion"
+576,27,Male,Delhi,<₹20k,Thai,Minty Lime,Gin & Tonic,Rarely,4,1074.0,No,Friend Referral,Wrong Order
+577,43,Female,Delhi,<₹20k,"Chinese, Mexican",Minty Lime,Margarita,Rarely,4,1024.0,No,"Swiggy Ads, Instagram",None
+578,36,Other,Bangalore,₹20k–40k,"Thai, Italian",Virgin Mojito,Rum Punch,Occasionally,2,1099.0,No,"Google Search, Swiggy Ads",Wrong Order
+579,56,Male,Mumbai,₹80k+,"Indian, Mexican",Virgin Mojito,Rum Punch,Frequently,5,657.0,Yes,Instagram,"High Price, None"
+580,20,Other,Delhi,₹60k–80k,"Thai, Mexican, Continental",Virgin Mojito,Rum Punch,Occasionally,5,1031.0,Yes,Google Search,"Late Delivery, High Price"
+581,30,Other,Chennai,₹80k+,"Chinese, Italian, Continental",Fruit Fizz,Margarita,Rarely,4,603.0,No,Friend Referral,"None, High Price"
+582,45,Male,Bangalore,₹20k–40k,"Indian, Thai, Mexican",Fruit Fizz,Gin & Tonic,Rarely,2,965.0,Yes,Instagram,High Price
+583,37,Male,Bangalore,₹80k+,Mexican,Virgin Mojito,Whiskey Sour,Occasionally,5,1132.0,Yes,Swiggy Ads,"Late Delivery, Wrong Order"
+584,45,Other,Delhi,₹80k+,Chinese,Virgin Mojito,Margarita,Rarely,2,1209.0,Yes,"Zomato, Swiggy Ads",High Price
+585,25,Male,Mumbai,₹20k–40k,"Italian, Mexican",Fruit Fizz,Rum Punch,Rarely,2,1067.0,Yes,"Zomato, Google Search, Friend Referral","None, High Price"
+586,58,Male,Chennai,<₹20k,"Chinese, Italian",Spicy Guava,Margarita,Occasionally,4,1135.0,No,"Swiggy Ads, Instagram",None
+587,56,Male,Mumbai,₹60k–80k,Mexican,Minty Lime,Rum Punch,Occasionally,4,940.0,Yes,"Zomato, Google Search","Wrong Order, Small Portion"
+588,18,Female,Hyderabad,₹20k–40k,"Mexican, Indian, Chinese",Minty Lime,Whiskey Sour,Occasionally,1,898.0,Yes,"Google Search, Zomato","High Price, Wrong Order"
+589,20,Other,Hyderabad,₹40k–60k,"Continental, Indian, Mexican",Virgin Mojito,Whiskey Sour,Rarely,5,1500.0,No,Friend Referral,"Small Portion, Wrong Order"
+590,30,Other,Delhi,<₹20k,"Indian, Mexican, Italian",Spicy Guava,Gin & Tonic,Rarely,5,1165.0,No,"Zomato, Instagram",None
+591,45,Female,Delhi,₹40k–60k,"Mexican, Indian",Fruit Fizz,Rum Punch,Frequently,5,765.0,Yes,Google Search,"Small Portion, Wrong Order"
+592,42,Other,Delhi,<₹20k,"Mexican, Continental",Virgin Mojito,Gin & Tonic,Frequently,3,653.0,Yes,"Zomato, Instagram","Wrong Order, Small Portion"
+593,50,Male,Hyderabad,₹60k–80k,"Indian, Mexican",Spicy Guava,Gin & Tonic,Occasionally,2,907.0,Yes,Instagram,"Small Portion, High Price"
+594,55,Other,Mumbai,₹60k–80k,"Italian, Chinese",Spicy Guava,Whiskey Sour,Frequently,4,1238.0,Yes,"Instagram, Swiggy Ads, Google Search",Wrong Order
+595,23,Male,Mumbai,₹80k+,"Italian, Continental",Spicy Guava,Margarita,Rarely,5,1010.0,Yes,Instagram,"None, Wrong Order"
+596,49,Female,Delhi,₹40k–60k,"Chinese, Continental",Fruit Fizz,Margarita,Frequently,1,555.0,Yes,Instagram,Small Portion
+597,38,Male,Chennai,<₹20k,Thai,Fruit Fizz,Gin & Tonic,Rarely,5,965.0,No,"Zomato, Friend Referral, Instagram",Small Portion
+598,33,Other,Mumbai,₹60k–80k,"Thai, Continental, Chinese",Minty Lime,Whiskey Sour,Occasionally,2,1000.0,Yes,"Zomato, Google Search","None, Late Delivery"
+599,38,Other,Hyderabad,₹20k–40k,Mexican,Minty Lime,Rum Punch,Occasionally,2,517.0,Yes,Zomato,None
+600,28,Other,Bangalore,₹60k–80k,"Indian, Chinese",Spicy Guava,Margarita,Rarely,4,1005.0,Yes,Zomato,Late Delivery
+601,54,Female,Bangalore,₹20k–40k,Continental,Spicy Guava,Gin & Tonic,Frequently,3,797.0,Yes,"Instagram, Swiggy Ads, Google Search","None, Wrong Order"
+602,53,Female,Bangalore,<₹20k,Indian,Fruit Fizz,Margarita,Occasionally,4,633.0,No,Google Search,None
+603,52,Other,Chennai,₹60k–80k,"Continental, Thai, Indian",Minty Lime,Margarita,Occasionally,5,1321.0,Yes,"Instagram, Friend Referral","Late Delivery, None"
+604,36,Male,Delhi,₹60k–80k,"Indian, Thai",Spicy Guava,Rum Punch,Frequently,1,788.0,Yes,"Instagram, Swiggy Ads, Friend Referral","Small Portion, Wrong Order"
+605,37,Female,Hyderabad,<₹20k,"Mexican, Chinese",Minty Lime,Whiskey Sour,Frequently,4,867.0,Yes,"Instagram, Zomato, Swiggy Ads",Wrong Order
+606,35,Other,Chennai,₹60k–80k,"Chinese, Mexican",Minty Lime,Rum Punch,Rarely,3,864.0,No,Swiggy Ads,"High Price, Small Portion"
+607,58,Other,Hyderabad,₹20k–40k,"Chinese, Continental",Spicy Guava,Whiskey Sour,Frequently,4,1000.0,Yes,Zomato,Small Portion
+608,31,Female,Hyderabad,₹60k–80k,"Italian, Chinese",Fruit Fizz,Margarita,Frequently,2,1353.0,Yes,"Instagram, Friend Referral",Small Portion
+609,32,Female,Delhi,₹40k–60k,"Indian, Chinese, Continental",Spicy Guava,Gin & Tonic,Frequently,5,761.0,Yes,Zomato,Small Portion
+610,48,Female,Bangalore,₹80k+,"Indian, Thai, Chinese",Spicy Guava,Rum Punch,Rarely,5,939.0,No,"Friend Referral, Google Search, Instagram",None
+611,18,Male,Delhi,₹20k–40k,"Thai, Mexican",Minty Lime,Whiskey Sour,Rarely,5,1024.0,Yes,Google Search,"Wrong Order, Late Delivery"
+612,20,Male,Chennai,₹40k–60k,"Chinese, Continental",Spicy Guava,Margarita,Occasionally,5,826.0,Yes,"Swiggy Ads, Google Search","Small Portion, Late Delivery"
+613,33,Other,Chennai,<₹20k,Chinese,Fruit Fizz,Whiskey Sour,Rarely,5,935.0,Yes,"Google Search, Friend Referral","High Price, Late Delivery"
+614,40,Female,Chennai,₹20k–40k,"Continental, Indian, Thai",Spicy Guava,Whiskey Sour,Occasionally,5,1119.0,Yes,"Friend Referral, Instagram","Late Delivery, Wrong Order"
+615,28,Male,Delhi,₹80k+,Italian,Fruit Fizz,Whiskey Sour,Frequently,1,849.0,No,"Friend Referral, Instagram, Zomato",Late Delivery
+616,29,Female,Hyderabad,₹80k+,Thai,Fruit Fizz,Margarita,Occasionally,3,932.0,No,"Zomato, Friend Referral, Swiggy Ads",None
+617,27,Other,Hyderabad,<₹20k,Mexican,Minty Lime,Gin & Tonic,Occasionally,5,914.0,Yes,"Swiggy Ads, Google Search, Friend Referral",Late Delivery
+618,49,Male,Mumbai,<₹20k,"Italian, Chinese, Thai",Virgin Mojito,Gin & Tonic,Frequently,3,979.0,Yes,"Zomato, Google Search","None, Wrong Order"
+619,33,Male,Chennai,₹20k–40k,"Chinese, Continental, Indian",Virgin Mojito,Gin & Tonic,Occasionally,5,1049.0,Yes,"Instagram, Friend Referral",Late Delivery
+620,25,Male,Hyderabad,₹60k–80k,"Chinese, Italian",Minty Lime,Whiskey Sour,Rarely,4,1117.0,Yes,Swiggy Ads,Wrong Order
+621,55,Other,Mumbai,<₹20k,"Indian, Thai, Continental",Spicy Guava,Margarita,Rarely,5,1388.0,Yes,Google Search,Late Delivery
+622,29,Female,Hyderabad,₹60k–80k,"Chinese, Continental",Minty Lime,Whiskey Sour,Rarely,2,500.0,Yes,Friend Referral,Late Delivery
+623,41,Male,Chennai,₹40k–60k,Mexican,Fruit Fizz,Gin & Tonic,Rarely,1,967.0,Yes,"Zomato, Friend Referral, Swiggy Ads","High Price, Late Delivery"
+624,45,Other,Bangalore,₹80k+,Chinese,Virgin Mojito,Gin & Tonic,Occasionally,4,727.0,Yes,"Zomato, Swiggy Ads","None, Wrong Order"
+625,25,Female,Chennai,₹60k–80k,Thai,Minty Lime,Margarita,Occasionally,4,923.0,No,"Friend Referral, Instagram","None, Small Portion"
+626,45,Other,Delhi,₹80k+,"Thai, Italian",Spicy Guava,Whiskey Sour,Frequently,2,1176.0,No,"Swiggy Ads, Instagram","Small Portion, High Price"
+627,53,Female,Hyderabad,₹60k–80k,"Chinese, Mexican",Minty Lime,Rum Punch,Occasionally,5,1240.0,No,"Friend Referral, Swiggy Ads, Google Search",Late Delivery
+628,43,Other,Hyderabad,₹40k–60k,Continental,Virgin Mojito,Rum Punch,Occasionally,1,1249.0,Yes,"Instagram, Swiggy Ads",None
+629,25,Female,Delhi,<₹20k,Continental,Minty Lime,Gin & Tonic,Occasionally,4,1247.0,No,Google Search,"High Price, Late Delivery"
+630,45,Male,Delhi,₹40k–60k,Chinese,Minty Lime,Margarita,Frequently,1,965.0,Yes,"Zomato, Swiggy Ads","High Price, None"
+631,45,Female,Bangalore,<₹20k,"Thai, Indian, Continental",Virgin Mojito,Whiskey Sour,Rarely,4,1280.0,Yes,Google Search,Late Delivery
+632,54,Other,Hyderabad,<₹20k,"Chinese, Indian",Fruit Fizz,Whiskey Sour,Occasionally,5,1319.0,No,"Swiggy Ads, Instagram",Small Portion
+633,58,Other,Hyderabad,₹80k+,"Mexican, Thai",Fruit Fizz,Gin & Tonic,Frequently,4,1028.0,Yes,Instagram,None
+634,53,Female,Bangalore,₹40k–60k,"Continental, Mexican",Virgin Mojito,Gin & Tonic,Frequently,4,1235.0,Yes,Zomato,"Small Portion, None"
+635,44,Male,Mumbai,₹60k–80k,"Thai, Mexican, Continental",Minty Lime,Whiskey Sour,Frequently,3,1008.0,Yes,"Zomato, Swiggy Ads, Instagram",High Price
+636,34,Male,Bangalore,₹40k–60k,"Thai, Italian, Mexican",Virgin Mojito,Whiskey Sour,Rarely,5,1282.0,Yes,"Instagram, Swiggy Ads","Small Portion, None"
+637,26,Female,Chennai,₹80k+,"Thai, Mexican",Fruit Fizz,Gin & Tonic,Occasionally,2,968.0,Yes,"Google Search, Friend Referral, Swiggy Ads","Small Portion, High Price"
+638,50,Female,Hyderabad,<₹20k,Thai,Spicy Guava,Whiskey Sour,Frequently,2,878.0,Yes,"Instagram, Google Search, Zomato",None
+639,37,Other,Delhi,₹80k+,"Chinese, Indian",Minty Lime,Rum Punch,Rarely,5,776.0,No,Google Search,"Wrong Order, None"
+640,30,Male,Chennai,₹20k–40k,Indian,Fruit Fizz,Gin & Tonic,Frequently,2,965.0,Yes,Instagram,"Wrong Order, Late Delivery"
+641,45,Female,Hyderabad,₹20k–40k,"Italian, Continental, Indian",Minty Lime,Whiskey Sour,Frequently,5,1017.0,Yes,"Friend Referral, Instagram",Small Portion
+642,46,Male,Bangalore,₹60k–80k,"Mexican, Continental, Thai",Virgin Mojito,Gin & Tonic,Frequently,2,811.0,Yes,"Swiggy Ads, Instagram",Wrong Order
+643,30,Female,Chennai,₹80k+,"Italian, Indian",Spicy Guava,Margarita,Frequently,3,950.0,Yes,"Google Search, Zomato, Friend Referral",Wrong Order
+644,52,Female,Hyderabad,₹60k–80k,"Mexican, Chinese",Virgin Mojito,Gin & Tonic,Frequently,2,895.0,No,"Swiggy Ads, Zomato, Google Search",Late Delivery
+645,23,Male,Mumbai,₹60k–80k,Chinese,Spicy Guava,Gin & Tonic,Rarely,4,785.0,Yes,Instagram,"Late Delivery, None"
+646,35,Female,Mumbai,₹20k–40k,"Continental, Chinese",Minty Lime,Margarita,Occasionally,5,1207.0,Yes,Zomato,"Wrong Order, High Price"
+647,22,Female,Delhi,₹60k–80k,"Thai, Chinese",Minty Lime,Rum Punch,Occasionally,1,1242.0,Yes,"Zomato, Instagram, Friend Referral",Late Delivery
+648,42,Other,Hyderabad,₹20k–40k,"Italian, Mexican, Chinese",Virgin Mojito,Whiskey Sour,Occasionally,1,1206.0,No,"Swiggy Ads, Google Search","Small Portion, Late Delivery"
+649,19,Female,Mumbai,<₹20k,Indian,Spicy Guava,Margarita,Occasionally,5,983.0,No,Zomato,Small Portion
+650,27,Female,Bangalore,₹80k+,Mexican,Spicy Guava,Gin & Tonic,Rarely,3,996.0,Yes,"Instagram, Friend Referral","Wrong Order, Small Portion"
+651,47,Female,Hyderabad,₹60k–80k,"Mexican, Continental",Minty Lime,Whiskey Sour,Rarely,2,787.0,Yes,Zomato,"None, Late Delivery"
+652,22,Other,Bangalore,₹20k–40k,"Continental, Mexican",Virgin Mojito,Margarita,Rarely,3,1083.0,Yes,"Instagram, Zomato",None
+653,50,Male,Bangalore,₹40k–60k,"Chinese, Mexican",Spicy Guava,Whiskey Sour,Frequently,1,1034.0,Yes,"Swiggy Ads, Google Search",Late Delivery
+654,18,Other,Mumbai,₹60k–80k,Mexican,Minty Lime,Whiskey Sour,Frequently,5,1500.0,Yes,Friend Referral,Late Delivery
+655,35,Other,Hyderabad,<₹20k,Chinese,Fruit Fizz,Margarita,Frequently,5,1217.0,No,Google Search,Small Portion
+656,49,Male,Chennai,<₹20k,Continental,Virgin Mojito,Whiskey Sour,Occasionally,3,1063.0,Yes,"Friend Referral, Swiggy Ads","Small Portion, Late Delivery"
+657,28,Other,Mumbai,₹40k–60k,Italian,Fruit Fizz,Rum Punch,Frequently,3,992.0,No,"Swiggy Ads, Google Search, Zomato",Late Delivery
+658,38,Male,Mumbai,₹20k–40k,"Indian, Italian",Virgin Mojito,Margarita,Occasionally,2,1200.0,Yes,"Instagram, Zomato, Swiggy Ads",Late Delivery
+659,43,Other,Hyderabad,₹60k–80k,"Mexican, Continental",Minty Lime,Rum Punch,Frequently,4,817.0,Yes,Google Search,"Wrong Order, None"
+660,42,Male,Hyderabad,₹20k–40k,Thai,Spicy Guava,Gin & Tonic,Occasionally,4,1228.0,Yes,Zomato,"Wrong Order, Small Portion"
+661,39,Female,Bangalore,<₹20k,"Italian, Thai",Spicy Guava,Whiskey Sour,Frequently,2,783.0,Yes,"Friend Referral, Instagram, Zomato",Late Delivery
+662,44,Other,Hyderabad,₹20k–40k,"Mexican, Indian, Continental",Spicy Guava,Gin & Tonic,Frequently,4,888.0,Yes,"Instagram, Zomato",High Price
+663,30,Other,Bangalore,<₹20k,Italian,Virgin Mojito,Gin & Tonic,Rarely,1,632.0,Yes,"Friend Referral, Instagram, Zomato",High Price
+664,50,Other,Mumbai,₹20k–40k,"Chinese, Italian",Minty Lime,Whiskey Sour,Frequently,4,1123.0,Yes,"Instagram, Friend Referral",High Price
+665,51,Other,Delhi,₹40k–60k,"Chinese, Indian, Thai",Fruit Fizz,Margarita,Frequently,2,1050.0,Yes,"Instagram, Google Search, Swiggy Ads",None
+666,58,Female,Chennai,₹80k+,Continental,Minty Lime,Whiskey Sour,Rarely,4,888.0,Yes,"Instagram, Friend Referral, Zomato",None
+667,52,Other,Mumbai,₹40k–60k,"Thai, Italian, Indian",Fruit Fizz,Gin & Tonic,Occasionally,5,814.0,Yes,"Swiggy Ads, Zomato, Instagram",High Price
+668,18,Female,Hyderabad,₹40k–60k,Thai,Virgin Mojito,Gin & Tonic,Rarely,3,1276.0,Yes,Instagram,Small Portion
+669,38,Female,Chennai,₹80k+,Continental,Virgin Mojito,Margarita,Rarely,1,973.0,Yes,"Instagram, Google Search",None
+670,23,Female,Delhi,₹80k+,"Italian, Indian, Mexican",Fruit Fizz,Whiskey Sour,Occasionally,5,847.0,Yes,"Swiggy Ads, Instagram, Zomato",Late Delivery
+671,45,Female,Delhi,₹60k–80k,"Italian, Thai",Fruit Fizz,Gin & Tonic,Frequently,5,1384.0,Yes,"Zomato, Google Search, Friend Referral","Small Portion, None"
+672,34,Male,Bangalore,₹60k–80k,"Italian, Thai",Fruit Fizz,Rum Punch,Occasionally,2,869.0,No,"Friend Referral, Swiggy Ads, Instagram",Small Portion
+673,22,Male,Chennai,₹40k–60k,"Italian, Continental",Minty Lime,Gin & Tonic,Frequently,3,1228.0,No,"Google Search, Friend Referral","Wrong Order, None"
+674,48,Other,Bangalore,₹40k–60k,Thai,Fruit Fizz,Gin & Tonic,Frequently,3,770.0,Yes,"Zomato, Google Search, Friend Referral",None
+675,22,Male,Mumbai,<₹20k,"Indian, Mexican, Thai",Virgin Mojito,Margarita,Occasionally,1,929.0,Yes,Swiggy Ads,None
+676,55,Male,Chennai,<₹20k,"Thai, Indian",Virgin Mojito,Rum Punch,Rarely,2,1100.0,Yes,Instagram,"Wrong Order, None"
+677,20,Other,Mumbai,₹60k–80k,"Thai, Continental, Indian",Spicy Guava,Gin & Tonic,Occasionally,1,988.0,No,Google Search,"Small Portion, Late Delivery"
+678,40,Other,Bangalore,₹60k–80k,Mexican,Fruit Fizz,Gin & Tonic,Frequently,4,1049.0,Yes,"Instagram, Zomato, Friend Referral","Late Delivery, Small Portion"
+679,54,Other,Chennai,<₹20k,"Continental, Mexican",Minty Lime,Rum Punch,Occasionally,5,892.0,Yes,"Zomato, Instagram",Small Portion
+680,54,Male,Bangalore,<₹20k,"Continental, Italian, Chinese",Minty Lime,Whiskey Sour,Occasionally,1,680.0,No,Friend Referral,"Late Delivery, Wrong Order"
+681,27,Male,Chennai,₹20k–40k,Chinese,Minty Lime,Whiskey Sour,Frequently,5,1293.0,Yes,"Swiggy Ads, Instagram","None, High Price"
+682,27,Other,Bangalore,₹20k–40k,Thai,Spicy Guava,Gin & Tonic,Rarely,2,904.0,Yes,"Swiggy Ads, Zomato",Late Delivery
+683,36,Female,Delhi,<₹20k,"Italian, Mexican",Virgin Mojito,Gin & Tonic,Occasionally,4,1058.0,Yes,Instagram,Wrong Order
+684,34,Other,Bangalore,₹20k–40k,Indian,Minty Lime,Whiskey Sour,Frequently,2,1140.0,Yes,Swiggy Ads,None
+685,38,Female,Delhi,₹80k+,Italian,Virgin Mojito,Margarita,Frequently,4,1062.0,No,"Swiggy Ads, Google Search",Wrong Order
+686,31,Female,Bangalore,₹60k–80k,Chinese,Spicy Guava,Rum Punch,Occasionally,4,858.0,No,Swiggy Ads,None
+687,26,Other,Chennai,₹60k–80k,Mexican,Fruit Fizz,Rum Punch,Rarely,5,1232.0,Yes,"Zomato, Friend Referral, Swiggy Ads",Late Delivery
+688,18,Other,Chennai,<₹20k,"Chinese, Mexican, Continental",Fruit Fizz,Margarita,Occasionally,2,1103.0,Yes,"Zomato, Swiggy Ads, Google Search",High Price
+689,30,Other,Chennai,₹40k–60k,"Thai, Continental",Fruit Fizz,Margarita,Rarely,2,1040.0,Yes,"Instagram, Google Search, Swiggy Ads",Small Portion
+690,21,Male,Hyderabad,<₹20k,"Chinese, Indian",Minty Lime,Margarita,Rarely,1,1035.0,Yes,"Google Search, Friend Referral, Swiggy Ads",None
+691,18,Female,Mumbai,₹20k–40k,Chinese,Fruit Fizz,Margarita,Rarely,2,1336.0,Yes,Google Search,"High Price, Late Delivery"
+692,57,Male,Chennai,₹40k–60k,Italian,Minty Lime,Margarita,Rarely,1,854.0,Yes,Swiggy Ads,"Small Portion, None"
+693,49,Male,Delhi,₹20k–40k,"Mexican, Indian, Chinese",Spicy Guava,Margarita,Occasionally,3,1083.0,Yes,"Instagram, Google Search","Late Delivery, None"
+694,51,Other,Chennai,₹80k+,"Chinese, Mexican",Spicy Guava,Rum Punch,Frequently,3,894.0,Yes,"Instagram, Zomato","High Price, Wrong Order"
+695,45,Male,Hyderabad,₹20k–40k,Indian,Minty Lime,Margarita,Frequently,3,613.0,Yes,"Friend Referral, Swiggy Ads, Zomato",None
+696,48,Other,Delhi,₹80k+,"Mexican, Italian, Thai",Virgin Mojito,Whiskey Sour,Frequently,2,607.0,Yes,"Swiggy Ads, Friend Referral",High Price
+697,25,Female,Hyderabad,₹80k+,"Italian, Thai",Fruit Fizz,Margarita,Frequently,2,797.0,Yes,"Zomato, Google Search",Late Delivery
+698,56,Other,Delhi,₹20k–40k,"Thai, Italian, Continental",Fruit Fizz,Margarita,Frequently,1,868.0,Yes,Zomato,Small Portion
+699,43,Male,Bangalore,₹20k–40k,"Chinese, Thai, Italian",Fruit Fizz,Rum Punch,Frequently,4,1435.0,Yes,"Zomato, Friend Referral, Swiggy Ads","Small Portion, Late Delivery"
+700,51,Male,Mumbai,₹80k+,"Chinese, Continental, Indian",Minty Lime,Rum Punch,Occasionally,1,1140.0,Yes,"Instagram, Zomato, Google Search","None, Late Delivery"
+701,20,Other,Mumbai,₹40k–60k,"Mexican, Italian",Spicy Guava,Margarita,Rarely,3,1158.0,Yes,"Google Search, Zomato, Friend Referral","None, Small Portion"
+702,29,Other,Hyderabad,₹80k+,"Thai, Italian",Fruit Fizz,Rum Punch,Frequently,1,873.0,Yes,"Friend Referral, Google Search, Zomato",None
+703,18,Male,Mumbai,₹60k–80k,"Continental, Mexican",Spicy Guava,Gin & Tonic,Occasionally,4,1012.0,Yes,"Instagram, Google Search","High Price, Small Portion"
+704,22,Female,Hyderabad,₹80k+,Thai,Fruit Fizz,Rum Punch,Frequently,2,1461.0,Yes,"Swiggy Ads, Google Search",Late Delivery
+705,47,Female,Hyderabad,₹40k–60k,"Italian, Indian",Fruit Fizz,Rum Punch,Frequently,1,757.0,Yes,Instagram,Small Portion
+706,47,Other,Hyderabad,₹60k–80k,Thai,Minty Lime,Rum Punch,Rarely,3,1091.0,No,"Instagram, Friend Referral","High Price, Small Portion"
+707,34,Female,Mumbai,<₹20k,Chinese,Virgin Mojito,Rum Punch,Rarely,3,1322.0,Yes,"Google Search, Instagram, Friend Referral","Wrong Order, High Price"
+708,40,Male,Hyderabad,<₹20k,Mexican,Minty Lime,Whiskey Sour,Rarely,2,1193.0,Yes,Friend Referral,Wrong Order
+709,32,Other,Mumbai,₹40k–60k,Indian,Fruit Fizz,Whiskey Sour,Frequently,1,1360.0,Yes,"Swiggy Ads, Friend Referral","Small Portion, Wrong Order"
+710,54,Male,Hyderabad,₹80k+,"Thai, Continental, Italian",Fruit Fizz,Whiskey Sour,Frequently,4,1043.0,Yes,"Zomato, Google Search, Swiggy Ads","None, Wrong Order"
+711,38,Male,Chennai,₹20k–40k,"Continental, Mexican",Virgin Mojito,Margarita,Frequently,2,1121.0,Yes,"Friend Referral, Instagram, Google Search","High Price, Wrong Order"
+712,31,Female,Hyderabad,₹40k–60k,"Thai, Italian",Spicy Guava,Margarita,Rarely,1,1022.0,Yes,"Friend Referral, Google Search, Zomato","Small Portion, Late Delivery"
+713,19,Other,Delhi,₹60k–80k,"Indian, Chinese",Spicy Guava,Gin & Tonic,Occasionally,5,1107.0,Yes,"Swiggy Ads, Friend Referral","High Price, Wrong Order"
+714,28,Other,Hyderabad,₹60k–80k,Thai,Fruit Fizz,Whiskey Sour,Frequently,3,817.0,Yes,"Instagram, Zomato, Swiggy Ads",Small Portion
+715,56,Female,Bangalore,<₹20k,"Continental, Indian",Spicy Guava,Margarita,Frequently,4,1158.0,Yes,"Zomato, Swiggy Ads","Small Portion, Wrong Order"
+716,55,Male,Hyderabad,₹60k–80k,"Indian, Mexican",Fruit Fizz,Rum Punch,Frequently,4,1059.0,Yes,Swiggy Ads,"Small Portion, High Price"
+717,51,Male,Delhi,₹40k–60k,"Mexican, Chinese",Virgin Mojito,Rum Punch,Occasionally,4,1013.0,No,"Swiggy Ads, Instagram",Small Portion
+718,55,Male,Delhi,₹60k–80k,"Mexican, Indian",Virgin Mojito,Whiskey Sour,Frequently,3,1349.0,Yes,"Instagram, Swiggy Ads","Small Portion, Late Delivery"
+719,51,Male,Mumbai,₹40k–60k,"Italian, Indian",Fruit Fizz,Gin & Tonic,Occasionally,1,947.0,No,Google Search,None
+720,35,Other,Chennai,₹20k–40k,"Chinese, Mexican",Virgin Mojito,Gin & Tonic,Frequently,2,1242.0,No,Friend Referral,"High Price, Small Portion"
+721,47,Other,Hyderabad,<₹20k,"Mexican, Thai",Minty Lime,Rum Punch,Occasionally,1,1261.0,Yes,Swiggy Ads,"None, High Price"
+722,32,Female,Mumbai,₹60k–80k,Mexican,Minty Lime,Gin & Tonic,Frequently,2,1171.0,Yes,"Friend Referral, Google Search, Zomato","Small Portion, High Price"
+723,44,Female,Chennai,₹40k–60k,"Chinese, Italian",Virgin Mojito,Whiskey Sour,Rarely,4,807.0,Yes,"Friend Referral, Swiggy Ads, Google Search",None
+724,51,Other,Hyderabad,₹80k+,Thai,Fruit Fizz,Rum Punch,Rarely,1,1072.0,No,"Instagram, Friend Referral",None
+725,55,Other,Bangalore,<₹20k,Italian,Fruit Fizz,Margarita,Rarely,4,1392.0,No,Zomato,"Late Delivery, Small Portion"
+726,50,Male,Hyderabad,₹20k–40k,Thai,Virgin Mojito,Margarita,Rarely,5,636.0,Yes,"Zomato, Instagram, Friend Referral","Wrong Order, High Price"
+727,41,Male,Delhi,₹40k–60k,"Thai, Mexican",Spicy Guava,Gin & Tonic,Frequently,4,962.0,No,Friend Referral,"None, High Price"
+728,32,Female,Delhi,₹20k–40k,Indian,Minty Lime,Rum Punch,Rarely,4,1232.0,Yes,Google Search,Small Portion
+729,47,Other,Bangalore,₹20k–40k,Indian,Spicy Guava,Rum Punch,Occasionally,2,977.0,Yes,"Swiggy Ads, Instagram",Small Portion
+730,59,Female,Mumbai,₹60k–80k,"Indian, Chinese, Mexican",Fruit Fizz,Margarita,Rarely,5,1162.0,No,"Google Search, Instagram","None, Late Delivery"
+731,34,Other,Chennai,₹60k–80k,"Indian, Chinese",Fruit Fizz,Rum Punch,Rarely,4,1282.0,No,Google Search,"High Price, None"
+732,22,Male,Hyderabad,₹40k–60k,Indian,Spicy Guava,Rum Punch,Rarely,4,1046.0,Yes,"Google Search, Zomato",None
+733,46,Female,Delhi,₹80k+,"Chinese, Indian",Virgin Mojito,Rum Punch,Frequently,5,1102.0,No,Google Search,None
+734,21,Female,Mumbai,₹40k–60k,Italian,Spicy Guava,Gin & Tonic,Rarely,5,1018.0,No,Swiggy Ads,"Late Delivery, High Price"
+735,27,Other,Bangalore,₹80k+,"Continental, Italian",Spicy Guava,Rum Punch,Occasionally,1,1060.0,No,Zomato,Late Delivery
+736,34,Male,Delhi,₹20k–40k,"Thai, Indian, Continental",Minty Lime,Whiskey Sour,Rarely,2,1421.0,No,"Instagram, Friend Referral",Wrong Order
+737,27,Female,Bangalore,<₹20k,Italian,Minty Lime,Gin & Tonic,Rarely,5,987.0,No,"Google Search, Swiggy Ads, Instagram","Wrong Order, Small Portion"
+738,34,Male,Hyderabad,₹40k–60k,"Indian, Continental",Spicy Guava,Rum Punch,Rarely,5,929.0,Yes,"Zomato, Swiggy Ads, Instagram",Small Portion
+739,37,Female,Chennai,₹40k–60k,"Indian, Continental, Thai",Spicy Guava,Rum Punch,Occasionally,3,1208.0,No,"Zomato, Instagram","High Price, Late Delivery"
+740,41,Male,Delhi,₹80k+,Chinese,Fruit Fizz,Whiskey Sour,Rarely,5,831.0,Yes,"Friend Referral, Google Search, Zomato",None
+741,22,Other,Delhi,₹20k–40k,"Mexican, Indian",Minty Lime,Gin & Tonic,Occasionally,2,877.0,No,"Swiggy Ads, Instagram, Google Search",High Price
+742,51,Female,Hyderabad,₹20k–40k,"Thai, Italian",Minty Lime,Margarita,Occasionally,4,878.0,Yes,"Instagram, Zomato, Friend Referral","High Price, Late Delivery"
+743,23,Female,Mumbai,₹80k+,"Thai, Indian, Italian",Fruit Fizz,Margarita,Rarely,4,949.0,Yes,"Friend Referral, Instagram, Swiggy Ads",Late Delivery
+744,19,Male,Chennai,₹20k–40k,Indian,Virgin Mojito,Gin & Tonic,Occasionally,4,958.0,Yes,Zomato,Late Delivery
+745,30,Male,Delhi,₹60k–80k,"Thai, Italian",Minty Lime,Rum Punch,Frequently,4,1140.0,Yes,"Zomato, Instagram","Small Portion, High Price"
+746,28,Female,Chennai,<₹20k,Continental,Minty Lime,Rum Punch,Rarely,3,932.0,Yes,Google Search,None
+747,40,Other,Delhi,₹40k–60k,"Thai, Indian, Mexican",Virgin Mojito,Margarita,Rarely,5,1148.0,No,"Friend Referral, Zomato, Google Search","High Price, Late Delivery"
+748,33,Male,Chennai,<₹20k,"Chinese, Italian, Indian",Minty Lime,Margarita,Occasionally,4,1173.0,No,"Google Search, Zomato","Small Portion, Wrong Order"
+749,48,Male,Bangalore,₹40k–60k,"Italian, Chinese",Minty Lime,Margarita,Occasionally,1,869.0,Yes,"Swiggy Ads, Friend Referral, Google Search",Wrong Order
+750,28,Male,Delhi,₹60k–80k,"Mexican, Continental, Italian",Virgin Mojito,Whiskey Sour,Rarely,4,1169.0,No,"Zomato, Swiggy Ads, Friend Referral","High Price, Late Delivery"
+751,33,Female,Chennai,₹20k–40k,"Italian, Continental, Mexican",Virgin Mojito,Margarita,Frequently,5,1187.0,No,"Zomato, Google Search, Swiggy Ads",Late Delivery
+752,25,Female,Mumbai,₹80k+,"Chinese, Italian",Spicy Guava,Whiskey Sour,Occasionally,4,648.0,Yes,Google Search,Late Delivery
+753,21,Female,Bangalore,₹60k–80k,"Italian, Chinese, Thai",Fruit Fizz,Gin & Tonic,Occasionally,3,1059.0,Yes,"Swiggy Ads, Google Search","Small Portion, None"
+754,57,Female,Bangalore,<₹20k,"Chinese, Continental",Fruit Fizz,Rum Punch,Frequently,2,899.0,No,"Instagram, Swiggy Ads",None
+755,21,Other,Mumbai,₹80k+,Indian,Virgin Mojito,Margarita,Frequently,2,1261.0,Yes,Swiggy Ads,"Wrong Order, Late Delivery"
+756,42,Other,Chennai,₹20k–40k,Thai,Virgin Mojito,Rum Punch,Rarely,5,897.0,No,Swiggy Ads,"Small Portion, High Price"
+757,20,Female,Hyderabad,₹60k–80k,Chinese,Minty Lime,Rum Punch,Frequently,2,732.0,No,"Friend Referral, Instagram, Google Search",None
+758,49,Other,Mumbai,₹80k+,Mexican,Spicy Guava,Margarita,Rarely,2,994.0,No,"Google Search, Friend Referral","None, Wrong Order"
+759,20,Male,Chennai,₹60k–80k,Chinese,Spicy Guava,Margarita,Frequently,1,821.0,Yes,"Zomato, Instagram, Friend Referral","None, High Price"
+760,44,Male,Mumbai,₹60k–80k,"Indian, Italian, Thai",Virgin Mojito,Gin & Tonic,Occasionally,5,1170.0,Yes,Instagram,"Small Portion, Late Delivery"
+761,46,Male,Mumbai,₹20k–40k,"Italian, Thai, Chinese",Minty Lime,Whiskey Sour,Rarely,5,838.0,Yes,"Instagram, Zomato","Late Delivery, None"
+762,49,Female,Delhi,₹40k–60k,"Mexican, Continental, Thai",Minty Lime,Whiskey Sour,Rarely,2,996.0,Yes,"Instagram, Friend Referral, Google Search","Wrong Order, Small Portion"
+763,36,Male,Chennai,₹80k+,Continental,Fruit Fizz,Rum Punch,Rarely,2,1309.0,Yes,"Swiggy Ads, Zomato, Instagram",Late Delivery
+764,38,Other,Hyderabad,₹20k–40k,"Continental, Thai, Italian",Fruit Fizz,Margarita,Frequently,2,1220.0,Yes,"Google Search, Friend Referral",Wrong Order
+765,22,Female,Delhi,₹60k–80k,"Chinese, Mexican, Indian",Minty Lime,Gin & Tonic,Occasionally,3,1096.0,Yes,"Friend Referral, Instagram","High Price, Late Delivery"
+766,35,Other,Mumbai,₹20k–40k,"Chinese, Mexican",Fruit Fizz,Gin & Tonic,Rarely,4,974.0,No,"Swiggy Ads, Google Search, Friend Referral",Wrong Order
+767,45,Male,Mumbai,₹40k–60k,Italian,Virgin Mojito,Gin & Tonic,Rarely,3,1077.0,Yes,"Swiggy Ads, Instagram","High Price, None"
+768,59,Male,Mumbai,₹80k+,Indian,Minty Lime,Gin & Tonic,Rarely,5,1138.0,Yes,"Zomato, Instagram","Wrong Order, Late Delivery"
+769,39,Male,Chennai,₹40k–60k,Italian,Fruit Fizz,Gin & Tonic,Rarely,1,803.0,Yes,Instagram,"Small Portion, High Price"
+770,38,Female,Chennai,<₹20k,"Chinese, Mexican",Spicy Guava,Whiskey Sour,Occasionally,4,1170.0,Yes,"Swiggy Ads, Google Search, Instagram","Small Portion, None"
+771,23,Other,Delhi,₹80k+,"Continental, Mexican",Minty Lime,Whiskey Sour,Frequently,1,780.0,Yes,"Swiggy Ads, Google Search","Wrong Order, High Price"
+772,18,Female,Hyderabad,₹40k–60k,"Italian, Mexican, Chinese",Minty Lime,Whiskey Sour,Occasionally,5,1114.0,No,Instagram,Small Portion
+773,22,Female,Delhi,₹60k–80k,"Continental, Mexican",Spicy Guava,Margarita,Rarely,5,779.0,Yes,"Zomato, Swiggy Ads",Wrong Order
+774,58,Male,Bangalore,₹80k+,"Italian, Thai, Chinese",Virgin Mojito,Rum Punch,Occasionally,1,1393.0,No,"Google Search, Zomato, Friend Referral",High Price
+775,29,Female,Mumbai,₹80k+,Chinese,Spicy Guava,Gin & Tonic,Rarely,1,1153.0,Yes,"Zomato, Instagram","None, Small Portion"
+776,43,Female,Mumbai,₹20k–40k,"Mexican, Indian",Minty Lime,Margarita,Frequently,1,689.0,No,"Zomato, Google Search","Wrong Order, High Price"
+777,51,Male,Mumbai,₹60k–80k,"Italian, Chinese",Virgin Mojito,Gin & Tonic,Frequently,5,1000.0,No,Instagram,"Wrong Order, None"
+778,31,Female,Delhi,<₹20k,Chinese,Fruit Fizz,Whiskey Sour,Frequently,2,896.0,No,"Google Search, Zomato",Late Delivery
+779,43,Male,Delhi,₹40k–60k,Thai,Fruit Fizz,Margarita,Rarely,1,872.0,No,"Zomato, Swiggy Ads",High Price
+780,44,Male,Mumbai,₹20k–40k,"Mexican, Italian, Chinese",Fruit Fizz,Whiskey Sour,Occasionally,4,1029.0,No,"Swiggy Ads, Instagram",Wrong Order
+781,26,Male,Delhi,₹40k–60k,"Chinese, Mexican, Indian",Minty Lime,Gin & Tonic,Frequently,5,814.0,No,"Zomato, Google Search, Friend Referral","Small Portion, Late Delivery"
+782,43,Male,Chennai,<₹20k,Continental,Spicy Guava,Gin & Tonic,Rarely,3,1152.0,Yes,Friend Referral,"Small Portion, High Price"
+783,39,Female,Chennai,<₹20k,"Continental, Italian",Virgin Mojito,Rum Punch,Rarely,3,1141.0,Yes,"Swiggy Ads, Instagram, Friend Referral","Small Portion, High Price"
+784,47,Male,Delhi,₹80k+,"Italian, Continental, Indian",Fruit Fizz,Gin & Tonic,Occasionally,4,1070.0,Yes,Friend Referral,"High Price, None"
+785,34,Male,Mumbai,<₹20k,Mexican,Virgin Mojito,Whiskey Sour,Frequently,2,996.0,Yes,"Google Search, Zomato",None
+786,43,Female,Delhi,₹40k–60k,"Chinese, Continental, Thai",Minty Lime,Gin & Tonic,Rarely,1,1132.0,Yes,"Friend Referral, Swiggy Ads","High Price, Wrong Order"
+787,53,Female,Delhi,₹60k–80k,"Continental, Thai",Fruit Fizz,Rum Punch,Occasionally,5,1158.0,Yes,"Google Search, Swiggy Ads",Wrong Order
+788,18,Other,Delhi,₹60k–80k,"Thai, Mexican",Minty Lime,Rum Punch,Frequently,1,1091.0,No,Instagram,High Price
+789,25,Female,Bangalore,₹80k+,"Thai, Continental, Chinese",Spicy Guava,Whiskey Sour,Occasionally,5,738.0,No,"Google Search, Swiggy Ads",Small Portion
+790,52,Female,Chennai,₹40k–60k,"Continental, Indian",Minty Lime,Margarita,Occasionally,3,842.0,Yes,Instagram,Wrong Order
+791,32,Other,Hyderabad,₹40k–60k,"Continental, Thai",Minty Lime,Gin & Tonic,Rarely,1,946.0,Yes,Zomato,"High Price, None"
+792,39,Female,Hyderabad,<₹20k,"Italian, Thai, Mexican",Spicy Guava,Rum Punch,Rarely,4,705.0,No,Friend Referral,Late Delivery
+793,31,Female,Bangalore,₹40k–60k,Italian,Virgin Mojito,Gin & Tonic,Rarely,2,1045.0,Yes,Friend Referral,None
+794,43,Female,Delhi,₹20k–40k,"Indian, Mexican",Spicy Guava,Gin & Tonic,Occasionally,4,1282.0,No,Google Search,Late Delivery
+795,45,Female,Bangalore,<₹20k,"Continental, Indian, Mexican",Spicy Guava,Margarita,Rarely,2,1250.0,Yes,Zomato,Small Portion
+796,40,Other,Bangalore,₹20k–40k,"Mexican, Thai",Minty Lime,Rum Punch,Occasionally,1,1148.0,Yes,"Zomato, Swiggy Ads",Wrong Order
+797,31,Female,Mumbai,₹80k+,"Chinese, Italian, Continental",Virgin Mojito,Gin & Tonic,Occasionally,1,1146.0,Yes,"Zomato, Friend Referral",Late Delivery
+798,41,Female,Chennai,₹60k–80k,"Italian, Continental",Fruit Fizz,Rum Punch,Rarely,2,1443.0,No,"Swiggy Ads, Instagram","Wrong Order, None"
+799,19,Other,Hyderabad,₹80k+,"Indian, Chinese, Italian",Spicy Guava,Whiskey Sour,Frequently,3,1169.0,Yes,"Instagram, Swiggy Ads","Small Portion, Wrong Order"
+800,43,Male,Delhi,₹60k–80k,"Italian, Indian",Virgin Mojito,Whiskey Sour,Frequently,5,1185.0,Yes,Friend Referral,"High Price, Wrong Order"
+801,31,Other,Hyderabad,₹80k+,"Chinese, Indian, Continental",Spicy Guava,Gin & Tonic,Frequently,4,712.0,Yes,"Instagram, Swiggy Ads","None, High Price"
+802,24,Male,Hyderabad,₹40k–60k,"Chinese, Mexican",Spicy Guava,Rum Punch,Occasionally,4,1267.0,Yes,"Swiggy Ads, Google Search","None, High Price"
+803,20,Other,Chennai,₹20k–40k,Mexican,Spicy Guava,Gin & Tonic,Occasionally,4,1080.0,No,"Swiggy Ads, Zomato, Instagram",Wrong Order
+804,40,Other,Hyderabad,₹60k–80k,Indian,Spicy Guava,Rum Punch,Occasionally,1,984.0,No,Swiggy Ads,"Wrong Order, High Price"
+805,35,Female,Hyderabad,<₹20k,"Thai, Continental",Minty Lime,Rum Punch,Rarely,4,934.0,Yes,Instagram,High Price
+806,55,Male,Bangalore,₹20k–40k,"Indian, Thai",Virgin Mojito,Margarita,Occasionally,5,890.0,Yes,"Swiggy Ads, Zomato",Small Portion
+807,52,Female,Chennai,<₹20k,"Continental, Italian, Indian",Virgin Mojito,Margarita,Rarely,5,1251.0,Yes,"Zomato, Friend Referral",None
+808,32,Male,Mumbai,₹20k–40k,"Thai, Chinese",Virgin Mojito,Margarita,Rarely,2,994.0,No,Instagram,"Small Portion, High Price"
+809,42,Other,Delhi,₹20k–40k,"Continental, Thai, Italian",Spicy Guava,Gin & Tonic,Frequently,1,898.0,No,Swiggy Ads,Small Portion
+810,54,Other,Hyderabad,₹80k+,Chinese,Minty Lime,Margarita,Frequently,5,846.0,Yes,"Google Search, Zomato, Instagram",Late Delivery
+811,45,Male,Delhi,₹60k–80k,"Thai, Italian",Spicy Guava,Margarita,Frequently,3,1034.0,No,"Zomato, Friend Referral","Late Delivery, None"
+812,27,Female,Mumbai,₹60k–80k,Thai,Spicy Guava,Whiskey Sour,Rarely,1,928.0,Yes,"Zomato, Google Search, Instagram","High Price, Late Delivery"
+813,56,Female,Delhi,₹20k–40k,"Chinese, Indian, Mexican",Virgin Mojito,Rum Punch,Rarely,1,882.0,No,"Zomato, Instagram, Swiggy Ads","Small Portion, None"
+814,34,Female,Mumbai,₹40k–60k,Italian,Spicy Guava,Rum Punch,Rarely,5,724.0,No,"Instagram, Friend Referral, Swiggy Ads","High Price, Small Portion"
+815,56,Female,Bangalore,₹40k–60k,"Chinese, Mexican, Indian",Fruit Fizz,Margarita,Occasionally,3,1192.0,No,Swiggy Ads,High Price
+816,39,Other,Hyderabad,<₹20k,Chinese,Spicy Guava,Rum Punch,Rarely,2,972.0,No,"Friend Referral, Zomato",High Price
+817,43,Other,Mumbai,<₹20k,"Continental, Italian, Chinese",Fruit Fizz,Whiskey Sour,Frequently,5,783.0,Yes,"Friend Referral, Zomato",High Price
+818,42,Other,Delhi,₹80k+,"Italian, Continental, Mexican",Spicy Guava,Whiskey Sour,Frequently,3,946.0,No,"Swiggy Ads, Zomato","None, High Price"
+819,34,Other,Hyderabad,₹20k–40k,Mexican,Minty Lime,Margarita,Rarely,1,1110.0,Yes,"Instagram, Zomato, Google Search",Small Portion
+820,30,Other,Bangalore,<₹20k,Continental,Minty Lime,Whiskey Sour,Rarely,3,1006.0,Yes,"Friend Referral, Google Search",High Price
+821,37,Female,Hyderabad,<₹20k,Italian,Virgin Mojito,Rum Punch,Frequently,1,1038.0,Yes,"Swiggy Ads, Friend Referral","None, Small Portion"
+822,42,Female,Mumbai,₹20k–40k,Italian,Spicy Guava,Gin & Tonic,Rarely,5,1009.0,No,"Friend Referral, Instagram",High Price
+823,21,Female,Bangalore,₹80k+,"Thai, Continental",Fruit Fizz,Rum Punch,Frequently,5,745.0,Yes,"Swiggy Ads, Friend Referral, Google Search","None, Wrong Order"
+824,27,Female,Delhi,<₹20k,"Indian, Continental, Chinese",Fruit Fizz,Gin & Tonic,Occasionally,4,1190.0,Yes,"Google Search, Swiggy Ads",High Price
+825,20,Other,Bangalore,₹80k+,Indian,Spicy Guava,Margarita,Frequently,4,658.0,Yes,"Instagram, Swiggy Ads",Small Portion
+826,58,Other,Bangalore,₹60k–80k,Indian,Fruit Fizz,Gin & Tonic,Occasionally,4,1092.0,Yes,"Zomato, Google Search, Friend Referral",Wrong Order
+827,35,Other,Chennai,₹80k+,"Chinese, Indian",Minty Lime,Whiskey Sour,Rarely,5,1123.0,Yes,"Google Search, Swiggy Ads, Zomato",Late Delivery
+828,53,Male,Bangalore,₹40k–60k,"Italian, Indian",Fruit Fizz,Rum Punch,Rarely,2,956.0,No,"Google Search, Friend Referral",Small Portion
+829,39,Female,Bangalore,₹40k–60k,"Thai, Mexican, Indian",Virgin Mojito,Gin & Tonic,Occasionally,5,1071.0,No,Instagram,Late Delivery
+830,51,Female,Hyderabad,₹80k+,"Continental, Thai",Minty Lime,Rum Punch,Rarely,3,945.0,Yes,Friend Referral,Wrong Order
+831,25,Other,Delhi,₹40k–60k,"Indian, Italian",Minty Lime,Margarita,Occasionally,5,1073.0,No,Friend Referral,Small Portion
+832,57,Female,Hyderabad,₹60k–80k,Italian,Minty Lime,Margarita,Rarely,5,1199.0,No,"Zomato, Google Search, Swiggy Ads",None
+833,36,Female,Hyderabad,₹20k–40k,Mexican,Spicy Guava,Whiskey Sour,Frequently,1,842.0,Yes,"Zomato, Instagram, Friend Referral","None, Wrong Order"
+834,59,Other,Mumbai,₹40k–60k,Thai,Spicy Guava,Margarita,Rarely,1,1135.0,No,"Zomato, Friend Referral",High Price
+835,58,Male,Hyderabad,₹40k–60k,"Continental, Indian",Minty Lime,Gin & Tonic,Frequently,1,1338.0,No,Google Search,Small Portion
+836,54,Male,Chennai,₹80k+,"Indian, Continental, Chinese",Spicy Guava,Margarita,Frequently,5,1053.0,Yes,"Friend Referral, Zomato, Instagram","Wrong Order, Late Delivery"
+837,23,Male,Chennai,₹60k–80k,Italian,Fruit Fizz,Whiskey Sour,Occasionally,2,899.0,Yes,Friend Referral,"None, Small Portion"
+838,43,Other,Mumbai,₹20k–40k,Thai,Spicy Guava,Rum Punch,Rarely,3,1453.0,No,"Swiggy Ads, Zomato, Google Search",High Price
+839,51,Female,Delhi,₹80k+,"Thai, Chinese, Mexican",Spicy Guava,Rum Punch,Occasionally,3,1018.0,Yes,Instagram,High Price
+840,23,Other,Delhi,₹80k+,"Italian, Indian, Continental",Minty Lime,Margarita,Rarely,2,1046.0,Yes,"Google Search, Instagram",Late Delivery
+841,54,Other,Hyderabad,₹60k–80k,"Mexican, Indian",Virgin Mojito,Gin & Tonic,Frequently,2,1050.0,Yes,"Swiggy Ads, Instagram, Zomato","High Price, Small Portion"
+842,50,Female,Hyderabad,₹20k–40k,"Mexican, Chinese, Thai",Virgin Mojito,Whiskey Sour,Frequently,3,1090.0,Yes,"Zomato, Friend Referral, Instagram","Wrong Order, High Price"
+843,39,Male,Hyderabad,₹60k–80k,Thai,Virgin Mojito,Gin & Tonic,Rarely,4,932.0,No,"Google Search, Friend Referral",Small Portion
+844,38,Male,Delhi,₹20k–40k,"Mexican, Thai, Indian",Fruit Fizz,Whiskey Sour,Rarely,1,1038.0,Yes,Zomato,Late Delivery
+845,23,Other,Bangalore,₹60k–80k,"Chinese, Mexican, Thai",Spicy Guava,Margarita,Occasionally,1,1190.0,Yes,"Friend Referral, Google Search, Zomato",High Price
+846,23,Male,Chennai,₹80k+,"Italian, Continental",Virgin Mojito,Whiskey Sour,Rarely,3,925.0,Yes,"Swiggy Ads, Friend Referral, Zomato","Small Portion, Wrong Order"
+847,21,Other,Bangalore,₹80k+,Indian,Minty Lime,Whiskey Sour,Rarely,2,916.0,Yes,"Friend Referral, Google Search, Instagram","High Price, Small Portion"
+848,47,Other,Bangalore,<₹20k,Mexican,Virgin Mojito,Margarita,Rarely,4,942.0,Yes,"Instagram, Swiggy Ads","Late Delivery, Small Portion"
+849,28,Female,Delhi,₹40k–60k,Indian,Virgin Mojito,Gin & Tonic,Occasionally,3,780.0,Yes,"Instagram, Swiggy Ads, Google Search","Small Portion, Wrong Order"
+850,47,Female,Bangalore,₹60k–80k,"Italian, Indian, Continental",Spicy Guava,Margarita,Rarely,1,863.0,No,"Zomato, Swiggy Ads","None, Late Delivery"
+851,48,Female,Mumbai,<₹20k,"Italian, Mexican, Indian",Spicy Guava,Whiskey Sour,Frequently,5,855.0,Yes,"Google Search, Instagram, Friend Referral","Wrong Order, None"
+852,41,Other,Hyderabad,₹40k–60k,"Mexican, Indian",Spicy Guava,Margarita,Occasionally,2,1000.0,Yes,"Friend Referral, Google Search","Wrong Order, High Price"
+853,26,Female,Mumbai,₹60k–80k,Indian,Fruit Fizz,Whiskey Sour,Occasionally,5,1167.0,Yes,"Google Search, Swiggy Ads","Small Portion, High Price"
+854,20,Male,Chennai,₹20k–40k,"Thai, Continental, Indian",Fruit Fizz,Margarita,Frequently,3,1291.0,Yes,"Google Search, Zomato","Late Delivery, None"
+855,48,Male,Hyderabad,₹40k–60k,"Chinese, Mexican, Thai",Virgin Mojito,Rum Punch,Frequently,1,1011.0,Yes,Swiggy Ads,Late Delivery
+856,57,Other,Bangalore,₹80k+,"Thai, Italian, Indian",Spicy Guava,Rum Punch,Frequently,4,1091.0,Yes,Swiggy Ads,None
+857,54,Other,Chennai,<₹20k,"Indian, Italian, Chinese",Virgin Mojito,Margarita,Rarely,5,1049.0,No,"Instagram, Zomato","Small Portion, Wrong Order"
+858,53,Female,Hyderabad,₹40k–60k,"Thai, Mexican",Minty Lime,Gin & Tonic,Frequently,4,581.0,Yes,"Swiggy Ads, Friend Referral, Zomato",None
+859,41,Other,Bangalore,₹40k–60k,"Indian, Continental",Minty Lime,Whiskey Sour,Rarely,1,770.0,No,"Swiggy Ads, Instagram, Zomato",High Price
+860,48,Other,Mumbai,₹80k+,Italian,Spicy Guava,Rum Punch,Occasionally,5,1152.0,Yes,"Google Search, Friend Referral, Swiggy Ads",Late Delivery
+861,23,Male,Hyderabad,₹60k–80k,"Chinese, Italian, Mexican",Spicy Guava,Gin & Tonic,Occasionally,4,1172.0,No,"Instagram, Friend Referral, Google Search",None
+862,19,Male,Bangalore,₹20k–40k,Italian,Minty Lime,Whiskey Sour,Frequently,4,1167.0,Yes,"Swiggy Ads, Google Search","None, High Price"
+863,37,Female,Mumbai,₹80k+,"Mexican, Indian",Spicy Guava,Rum Punch,Rarely,5,964.0,No,"Zomato, Swiggy Ads, Google Search","Wrong Order, High Price"
+864,45,Other,Chennai,₹20k–40k,"Italian, Indian, Mexican",Fruit Fizz,Rum Punch,Frequently,1,601.0,Yes,"Swiggy Ads, Friend Referral, Google Search","High Price, None"
+865,28,Other,Chennai,₹60k–80k,"Continental, Italian",Fruit Fizz,Margarita,Frequently,4,794.0,Yes,"Instagram, Google Search, Friend Referral","None, High Price"
+866,21,Male,Chennai,₹40k–60k,"Indian, Continental",Spicy Guava,Whiskey Sour,Rarely,3,825.0,Yes,"Swiggy Ads, Friend Referral","Wrong Order, High Price"
+867,32,Other,Chennai,₹20k–40k,"Italian, Chinese",Minty Lime,Gin & Tonic,Frequently,5,1126.0,No,"Instagram, Google Search","High Price, None"
+868,23,Male,Delhi,<₹20k,"Indian, Chinese, Continental",Virgin Mojito,Gin & Tonic,Occasionally,2,929.0,Yes,"Friend Referral, Google Search",None
+869,47,Female,Hyderabad,<₹20k,"Indian, Continental",Spicy Guava,Gin & Tonic,Frequently,2,1338.0,Yes,"Friend Referral, Instagram",None
+870,55,Male,Hyderabad,₹80k+,"Italian, Continental",Spicy Guava,Whiskey Sour,Rarely,1,1294.0,No,Swiggy Ads,Wrong Order
+871,19,Other,Delhi,₹60k–80k,Chinese,Virgin Mojito,Gin & Tonic,Rarely,3,1335.0,Yes,"Zomato, Google Search, Instagram",Late Delivery
+872,32,Female,Bangalore,₹80k+,"Chinese, Thai, Indian",Spicy Guava,Gin & Tonic,Occasionally,4,817.0,No,"Friend Referral, Swiggy Ads","None, Small Portion"
+873,28,Male,Bangalore,₹80k+,Indian,Virgin Mojito,Gin & Tonic,Rarely,2,1098.0,Yes,"Friend Referral, Zomato, Instagram",Wrong Order
+874,25,Male,Chennai,₹80k+,"Italian, Thai",Minty Lime,Margarita,Rarely,1,904.0,No,"Friend Referral, Swiggy Ads, Google Search","None, Wrong Order"
+875,43,Female,Mumbai,<₹20k,"Indian, Thai, Italian",Fruit Fizz,Margarita,Occasionally,3,1066.0,Yes,Friend Referral,"Late Delivery, Small Portion"
+876,22,Female,Bangalore,<₹20k,"Continental, Italian, Indian",Minty Lime,Whiskey Sour,Frequently,3,839.0,Yes,Swiggy Ads,High Price
+877,23,Male,Mumbai,₹80k+,"Indian, Italian",Fruit Fizz,Whiskey Sour,Occasionally,1,1245.0,Yes,"Instagram, Zomato","High Price, None"
+878,43,Other,Hyderabad,<₹20k,"Indian, Italian",Virgin Mojito,Gin & Tonic,Frequently,1,843.0,No,Swiggy Ads,High Price
+879,21,Male,Mumbai,₹60k–80k,"Continental, Indian",Fruit Fizz,Margarita,Occasionally,4,611.0,Yes,Friend Referral,Small Portion
+880,36,Female,Hyderabad,₹80k+,Indian,Minty Lime,Rum Punch,Frequently,1,1407.0,Yes,"Swiggy Ads, Instagram, Google Search","Wrong Order, Small Portion"
+881,37,Male,Delhi,<₹20k,Thai,Fruit Fizz,Rum Punch,Occasionally,4,1088.0,No,"Swiggy Ads, Friend Referral, Instagram",Late Delivery
+882,50,Female,Delhi,₹20k–40k,Indian,Virgin Mojito,Gin & Tonic,Frequently,4,786.0,Yes,Instagram,Wrong Order
+883,37,Female,Chennai,₹80k+,"Indian, Mexican",Fruit Fizz,Gin & Tonic,Occasionally,5,968.0,No,Instagram,Wrong Order
+884,29,Other,Bangalore,₹80k+,"Mexican, Thai",Spicy Guava,Margarita,Frequently,3,885.0,No,Friend Referral,"Small Portion, Late Delivery"
+885,18,Female,Chennai,₹60k–80k,Italian,Minty Lime,Margarita,Occasionally,3,1001.0,No,Friend Referral,None
+886,43,Female,Hyderabad,₹40k–60k,Thai,Spicy Guava,Margarita,Rarely,3,1161.0,No,Instagram,None
+887,31,Other,Chennai,₹40k–60k,"Chinese, Indian, Italian",Virgin Mojito,Whiskey Sour,Frequently,5,1129.0,Yes,Swiggy Ads,"None, Late Delivery"
+888,55,Female,Mumbai,₹60k–80k,Chinese,Fruit Fizz,Whiskey Sour,Occasionally,4,1051.0,Yes,"Zomato, Swiggy Ads","High Price, Late Delivery"
+889,54,Other,Hyderabad,₹60k–80k,"Thai, Indian, Continental",Spicy Guava,Gin & Tonic,Frequently,4,1001.0,No,"Instagram, Swiggy Ads",None
+890,28,Other,Delhi,₹60k–80k,"Chinese, Continental",Spicy Guava,Whiskey Sour,Frequently,1,1216.0,Yes,Swiggy Ads,Late Delivery
+891,53,Female,Bangalore,₹40k–60k,Continental,Fruit Fizz,Margarita,Occasionally,5,615.0,Yes,"Swiggy Ads, Zomato, Google Search","Small Portion, Late Delivery"
+892,30,Female,Hyderabad,₹60k–80k,"Thai, Chinese, Mexican",Fruit Fizz,Margarita,Frequently,1,850.0,No,"Instagram, Swiggy Ads","High Price, Wrong Order"
+893,20,Male,Hyderabad,<₹20k,Continental,Minty Lime,Whiskey Sour,Occasionally,5,804.0,Yes,"Instagram, Google Search, Swiggy Ads","Small Portion, Wrong Order"
+894,50,Other,Mumbai,₹80k+,"Italian, Thai, Chinese",Spicy Guava,Rum Punch,Rarely,1,1201.0,No,"Zomato, Instagram",High Price
+895,23,Male,Bangalore,₹80k+,"Thai, Chinese",Spicy Guava,Gin & Tonic,Frequently,2,852.0,No,"Instagram, Friend Referral",High Price
+896,27,Female,Delhi,₹20k–40k,Mexican,Virgin Mojito,Rum Punch,Rarely,3,743.0,No,"Google Search, Swiggy Ads, Zomato",Small Portion
+897,22,Male,Hyderabad,₹20k–40k,Thai,Minty Lime,Gin & Tonic,Frequently,3,1110.0,No,Instagram,High Price
+898,40,Other,Hyderabad,₹80k+,"Mexican, Chinese, Italian",Virgin Mojito,Rum Punch,Frequently,4,818.0,No,"Swiggy Ads, Instagram, Friend Referral",Wrong Order
+899,27,Male,Mumbai,<₹20k,"Chinese, Mexican",Spicy Guava,Whiskey Sour,Frequently,2,930.0,No,"Zomato, Friend Referral","Late Delivery, None"
+900,19,Other,Chennai,₹40k–60k,"Mexican, Thai, Italian",Virgin Mojito,Gin & Tonic,Occasionally,3,1476.0,Yes,Google Search,None
+901,30,Female,Delhi,₹40k–60k,"Chinese, Thai",Spicy Guava,Gin & Tonic,Rarely,4,1157.0,Yes,"Zomato, Google Search",None
+902,57,Female,Bangalore,<₹20k,Continental,Spicy Guava,Gin & Tonic,Frequently,2,958.0,No,"Instagram, Swiggy Ads, Zomato",Late Delivery
+903,19,Other,Hyderabad,₹40k–60k,"Italian, Thai",Virgin Mojito,Margarita,Occasionally,3,976.0,No,Instagram,None
+904,37,Female,Hyderabad,₹60k–80k,"Indian, Continental",Virgin Mojito,Margarita,Frequently,1,1181.0,Yes,"Zomato, Friend Referral",None
+905,18,Female,Delhi,₹80k+,"Thai, Chinese",Fruit Fizz,Rum Punch,Occasionally,5,1133.0,Yes,Google Search,"High Price, Wrong Order"
+906,54,Female,Chennai,₹80k+,"Italian, Chinese, Thai",Fruit Fizz,Whiskey Sour,Frequently,2,1015.0,Yes,"Google Search, Zomato","High Price, Late Delivery"
+907,26,Female,Hyderabad,<₹20k,"Thai, Indian, Chinese",Fruit Fizz,Margarita,Rarely,4,1021.0,Yes,"Instagram, Google Search",Small Portion
+908,34,Other,Delhi,₹40k–60k,Continental,Spicy Guava,Gin & Tonic,Rarely,2,704.0,No,Instagram,None
+909,26,Male,Mumbai,₹20k–40k,Chinese,Virgin Mojito,Margarita,Frequently,4,662.0,No,"Zomato, Swiggy Ads",None
+910,28,Male,Chennai,₹20k–40k,Continental,Minty Lime,Whiskey Sour,Occasionally,2,965.0,Yes,"Google Search, Instagram","None, Late Delivery"
+911,32,Female,Bangalore,₹40k–60k,Continental,Spicy Guava,Margarita,Frequently,4,873.0,Yes,Instagram,Late Delivery
+912,41,Male,Hyderabad,₹20k–40k,Continental,Minty Lime,Gin & Tonic,Occasionally,3,1117.0,Yes,"Zomato, Google Search, Friend Referral","High Price, Late Delivery"
+913,55,Male,Delhi,<₹20k,"Chinese, Continental",Virgin Mojito,Rum Punch,Frequently,1,1039.0,No,Instagram,High Price
+914,52,Female,Mumbai,<₹20k,"Indian, Thai",Spicy Guava,Gin & Tonic,Occasionally,3,845.0,Yes,"Friend Referral, Google Search, Instagram",Small Portion
+915,47,Female,Bangalore,₹40k–60k,Continental,Minty Lime,Whiskey Sour,Rarely,1,1033.0,Yes,"Swiggy Ads, Google Search",Small Portion
+916,48,Male,Delhi,₹20k–40k,Continental,Minty Lime,Rum Punch,Frequently,3,916.0,Yes,Zomato,High Price
+917,22,Other,Delhi,<₹20k,Continental,Fruit Fizz,Margarita,Rarely,3,1413.0,Yes,"Swiggy Ads, Google Search, Zomato","Wrong Order, Small Portion"
+918,31,Female,Bangalore,<₹20k,Mexican,Fruit Fizz,Margarita,Rarely,2,1077.0,Yes,"Instagram, Swiggy Ads","Wrong Order, Small Portion"
+919,28,Other,Mumbai,₹60k–80k,Italian,Fruit Fizz,Margarita,Frequently,5,688.0,Yes,"Swiggy Ads, Friend Referral",Wrong Order
+920,26,Male,Mumbai,₹60k–80k,Mexican,Spicy Guava,Rum Punch,Frequently,4,1364.0,Yes,"Zomato, Friend Referral","None, Small Portion"
+921,51,Female,Chennai,<₹20k,Chinese,Virgin Mojito,Gin & Tonic,Occasionally,4,873.0,Yes,"Swiggy Ads, Friend Referral",Wrong Order
+922,29,Other,Hyderabad,₹40k–60k,"Continental, Indian, Italian",Virgin Mojito,Rum Punch,Occasionally,4,805.0,Yes,"Swiggy Ads, Zomato","Wrong Order, Late Delivery"
+923,52,Female,Bangalore,₹80k+,"Mexican, Continental",Fruit Fizz,Rum Punch,Rarely,1,1429.0,No,Zomato,High Price
+924,52,Male,Bangalore,₹80k+,"Thai, Italian, Mexican",Fruit Fizz,Whiskey Sour,Occasionally,4,1069.0,No,"Zomato, Instagram, Google Search","Small Portion, Late Delivery"
+925,18,Other,Bangalore,<₹20k,"Chinese, Continental, Thai",Fruit Fizz,Rum Punch,Occasionally,4,1140.0,No,Swiggy Ads,"High Price, Small Portion"
+926,57,Male,Mumbai,<₹20k,"Italian, Chinese",Minty Lime,Margarita,Frequently,2,1147.0,No,"Swiggy Ads, Instagram",Late Delivery
+927,39,Male,Hyderabad,<₹20k,"Continental, Chinese, Mexican",Fruit Fizz,Gin & Tonic,Occasionally,3,959.0,Yes,"Swiggy Ads, Zomato","Small Portion, None"
+928,46,Female,Chennai,₹40k–60k,"Italian, Mexican",Minty Lime,Gin & Tonic,Rarely,4,886.0,Yes,"Instagram, Google Search, Swiggy Ads",None
+929,25,Other,Delhi,₹60k–80k,Italian,Virgin Mojito,Gin & Tonic,Occasionally,5,918.0,Yes,"Swiggy Ads, Zomato","None, Wrong Order"
+930,28,Male,Delhi,<₹20k,Mexican,Spicy Guava,Margarita,Rarely,4,1322.0,No,Google Search,"High Price, Late Delivery"
+931,58,Male,Bangalore,<₹20k,"Chinese, Indian",Spicy Guava,Margarita,Frequently,1,1041.0,No,"Instagram, Zomato",Small Portion
+932,54,Other,Hyderabad,₹20k–40k,Continental,Spicy Guava,Margarita,Rarely,1,1263.0,Yes,"Instagram, Friend Referral","Wrong Order, Small Portion"
+933,31,Male,Mumbai,₹40k–60k,"Thai, Italian",Spicy Guava,Margarita,Occasionally,1,985.0,Yes,Instagram,Wrong Order
+934,47,Male,Hyderabad,<₹20k,Mexican,Minty Lime,Margarita,Frequently,4,849.0,Yes,Friend Referral,Small Portion
+935,52,Other,Hyderabad,₹20k–40k,Italian,Minty Lime,Rum Punch,Occasionally,2,712.0,No,"Google Search, Zomato","Wrong Order, Small Portion"
+936,38,Other,Mumbai,₹80k+,Italian,Fruit Fizz,Margarita,Frequently,5,1130.0,Yes,"Swiggy Ads, Friend Referral, Zomato",Wrong Order
+937,54,Other,Bangalore,<₹20k,"Chinese, Mexican",Minty Lime,Margarita,Frequently,4,1339.0,Yes,Google Search,"Small Portion, None"
+938,22,Other,Hyderabad,<₹20k,Mexican,Fruit Fizz,Margarita,Occasionally,2,823.0,Yes,Swiggy Ads,High Price
+939,36,Female,Delhi,₹20k–40k,"Indian, Thai, Mexican",Fruit Fizz,Margarita,Occasionally,2,1103.0,Yes,Swiggy Ads,High Price
+940,31,Other,Mumbai,₹40k–60k,"Italian, Chinese",Spicy Guava,Gin & Tonic,Frequently,4,725.0,No,"Friend Referral, Instagram",None
+941,43,Female,Chennai,<₹20k,"Chinese, Italian",Minty Lime,Margarita,Frequently,4,889.0,Yes,"Google Search, Swiggy Ads",Small Portion
+942,21,Female,Bangalore,₹80k+,"Mexican, Italian",Minty Lime,Rum Punch,Occasionally,2,1054.0,No,"Google Search, Instagram, Friend Referral","High Price, Late Delivery"
+943,42,Female,Mumbai,<₹20k,Mexican,Fruit Fizz,Rum Punch,Rarely,2,654.0,Yes,"Zomato, Google Search","Late Delivery, None"
+944,59,Male,Chennai,₹80k+,Mexican,Fruit Fizz,Rum Punch,Occasionally,2,996.0,No,"Instagram, Friend Referral, Zomato",None
+945,42,Female,Chennai,₹60k–80k,Indian,Virgin Mojito,Whiskey Sour,Frequently,4,833.0,No,"Zomato, Friend Referral","High Price, Wrong Order"
+946,35,Female,Hyderabad,₹60k–80k,Continental,Virgin Mojito,Gin & Tonic,Occasionally,2,1121.0,Yes,Instagram,"None, High Price"
+947,57,Male,Hyderabad,₹80k+,"Mexican, Chinese",Fruit Fizz,Margarita,Rarely,1,967.0,Yes,"Swiggy Ads, Friend Referral, Zomato","High Price, Late Delivery"
+948,25,Male,Hyderabad,₹40k–60k,"Thai, Chinese, Indian",Virgin Mojito,Whiskey Sour,Occasionally,4,1188.0,No,Swiggy Ads,"Late Delivery, None"
+949,56,Male,Mumbai,<₹20k,"Continental, Italian",Virgin Mojito,Margarita,Frequently,1,944.0,Yes,"Swiggy Ads, Zomato, Instagram",None
+950,57,Other,Mumbai,<₹20k,"Italian, Indian, Continental",Fruit Fizz,Whiskey Sour,Occasionally,3,728.0,No,"Google Search, Friend Referral",Wrong Order
+951,31,Male,Bangalore,₹60k–80k,"Thai, Italian, Mexican",Fruit Fizz,Whiskey Sour,Frequently,4,703.0,No,Friend Referral,"Wrong Order, Late Delivery"
+952,49,Male,Hyderabad,₹80k+,Indian,Minty Lime,Rum Punch,Frequently,3,618.0,No,"Zomato, Google Search, Swiggy Ads","Wrong Order, Small Portion"
+953,55,Female,Chennai,<₹20k,"Indian, Chinese, Italian",Fruit Fizz,Rum Punch,Occasionally,2,1127.0,Yes,"Instagram, Zomato, Swiggy Ads","Wrong Order, Small Portion"
+954,50,Male,Delhi,<₹20k,"Chinese, Thai",Fruit Fizz,Whiskey Sour,Frequently,2,1500.0,Yes,"Google Search, Swiggy Ads, Friend Referral",None
+955,40,Other,Bangalore,₹40k–60k,"Thai, Continental, Chinese",Spicy Guava,Rum Punch,Frequently,5,1087.0,Yes,Instagram,High Price
+956,32,Male,Mumbai,₹20k–40k,"Mexican, Thai, Indian",Minty Lime,Whiskey Sour,Rarely,2,1334.0,Yes,"Google Search, Swiggy Ads, Friend Referral","High Price, Small Portion"
+957,50,Other,Bangalore,₹60k–80k,Indian,Minty Lime,Gin & Tonic,Rarely,3,1227.0,No,"Instagram, Google Search",None
+958,42,Male,Bangalore,₹60k–80k,"Continental, Thai",Minty Lime,Rum Punch,Rarely,2,896.0,No,"Swiggy Ads, Friend Referral",None
+959,34,Male,Bangalore,₹20k–40k,"Thai, Italian",Spicy Guava,Rum Punch,Rarely,4,1253.0,Yes,Swiggy Ads,"Wrong Order, Late Delivery"
+960,50,Male,Bangalore,<₹20k,Mexican,Fruit Fizz,Rum Punch,Frequently,2,904.0,No,Friend Referral,"None, Late Delivery"
+961,19,Male,Delhi,₹40k–60k,Chinese,Minty Lime,Gin & Tonic,Occasionally,5,908.0,Yes,"Zomato, Instagram","Small Portion, None"
+962,31,Other,Hyderabad,₹40k–60k,Continental,Minty Lime,Whiskey Sour,Frequently,2,958.0,Yes,"Swiggy Ads, Instagram, Google Search","None, Late Delivery"
+963,57,Other,Chennai,₹60k–80k,"Continental, Mexican",Virgin Mojito,Margarita,Frequently,3,968.0,No,Instagram,Wrong Order
+964,57,Female,Bangalore,₹40k–60k,"Continental, Italian",Minty Lime,Rum Punch,Frequently,3,1132.0,No,"Zomato, Friend Referral, Google Search","None, Small Portion"
+965,56,Other,Bangalore,₹20k–40k,"Chinese, Mexican, Italian",Fruit Fizz,Whiskey Sour,Occasionally,2,866.0,Yes,"Zomato, Google Search","High Price, None"
+966,23,Male,Bangalore,<₹20k,Mexican,Fruit Fizz,Gin & Tonic,Rarely,3,1178.0,No,Zomato,Wrong Order
+967,23,Female,Hyderabad,₹20k–40k,"Thai, Chinese",Virgin Mojito,Margarita,Frequently,3,1175.0,Yes,Friend Referral,"None, Small Portion"
+968,20,Female,Mumbai,₹80k+,Italian,Minty Lime,Rum Punch,Frequently,5,1069.0,Yes,Google Search,Small Portion
+969,24,Female,Mumbai,₹60k–80k,Italian,Minty Lime,Gin & Tonic,Rarely,4,1388.0,Yes,"Friend Referral, Swiggy Ads",Small Portion
+970,25,Male,Delhi,₹40k–60k,"Mexican, Chinese",Minty Lime,Gin & Tonic,Frequently,5,1257.0,No,"Swiggy Ads, Google Search, Zomato","Wrong Order, Late Delivery"
+971,59,Other,Mumbai,₹80k+,"Italian, Mexican, Chinese",Spicy Guava,Margarita,Occasionally,1,1214.0,Yes,"Instagram, Swiggy Ads","None, Late Delivery"
+972,32,Male,Bangalore,₹40k–60k,"Thai, Indian",Minty Lime,Whiskey Sour,Frequently,5,1013.0,Yes,Zomato,Small Portion
+973,46,Female,Bangalore,<₹20k,"Indian, Continental, Chinese",Fruit Fizz,Rum Punch,Frequently,2,1070.0,Yes,"Swiggy Ads, Friend Referral, Instagram","Late Delivery, Wrong Order"
+974,50,Male,Bangalore,<₹20k,Mexican,Fruit Fizz,Rum Punch,Rarely,4,1105.0,No,"Google Search, Zomato, Instagram","Wrong Order, Late Delivery"
+975,47,Male,Delhi,<₹20k,Chinese,Spicy Guava,Whiskey Sour,Frequently,2,1003.0,Yes,Friend Referral,"Wrong Order, Small Portion"
+976,56,Other,Bangalore,₹40k–60k,"Mexican, Thai",Spicy Guava,Whiskey Sour,Frequently,1,925.0,Yes,"Instagram, Zomato","High Price, Wrong Order"
+977,44,Other,Mumbai,₹80k+,"Indian, Continental, Mexican",Minty Lime,Whiskey Sour,Occasionally,4,519.0,Yes,"Google Search, Instagram, Friend Referral",Wrong Order
+978,53,Female,Hyderabad,<₹20k,"Chinese, Continental, Thai",Virgin Mojito,Margarita,Rarely,3,1144.0,Yes,Instagram,"High Price, Small Portion"
+979,46,Male,Hyderabad,₹80k+,Italian,Spicy Guava,Margarita,Rarely,5,1208.0,No,"Swiggy Ads, Instagram","Late Delivery, High Price"
+980,55,Male,Chennai,₹40k–60k,Indian,Spicy Guava,Rum Punch,Occasionally,2,768.0,Yes,Instagram,Wrong Order
+981,50,Other,Mumbai,₹80k+,"Indian, Thai",Minty Lime,Margarita,Frequently,1,1121.0,No,"Google Search, Instagram, Swiggy Ads",None
+982,54,Male,Bangalore,₹40k–60k,"Indian, Italian",Minty Lime,Gin & Tonic,Rarely,3,882.0,Yes,Zomato,None
+983,44,Male,Hyderabad,₹40k–60k,"Thai, Mexican, Chinese",Spicy Guava,Rum Punch,Rarely,5,927.0,No,Instagram,High Price
+984,50,Male,Mumbai,₹60k–80k,Italian,Virgin Mojito,Margarita,Frequently,3,1262.0,Yes,"Friend Referral, Zomato",None
+985,21,Other,Hyderabad,₹40k–60k,Thai,Spicy Guava,Whiskey Sour,Frequently,5,802.0,Yes,Instagram,"Late Delivery, Wrong Order"
+986,39,Female,Bangalore,₹40k–60k,Indian,Minty Lime,Gin & Tonic,Rarely,4,802.0,Yes,"Google Search, Friend Referral, Zomato",Small Portion
+987,19,Female,Hyderabad,₹20k–40k,"Thai, Continental",Minty Lime,Whiskey Sour,Frequently,3,1361.0,No,Swiggy Ads,High Price
+988,27,Male,Chennai,<₹20k,"Continental, Chinese, Indian",Spicy Guava,Rum Punch,Rarely,3,971.0,No,Friend Referral,"Wrong Order, Late Delivery"
+989,22,Female,Chennai,₹60k–80k,"Continental, Italian",Virgin Mojito,Whiskey Sour,Frequently,3,1249.0,Yes,Instagram,"Late Delivery, Wrong Order"
+990,27,Other,Hyderabad,₹60k–80k,"Chinese, Indian, Mexican",Spicy Guava,Margarita,Frequently,4,680.0,No,"Instagram, Zomato",Late Delivery
+991,50,Other,Mumbai,₹60k–80k,Mexican,Spicy Guava,Margarita,Occasionally,1,696.0,Yes,"Google Search, Instagram, Zomato",High Price
+992,55,Female,Mumbai,₹20k–40k,"Indian, Continental",Minty Lime,Rum Punch,Frequently,5,817.0,Yes,"Google Search, Instagram","Small Portion, Wrong Order"
+993,30,Female,Mumbai,₹40k–60k,"Thai, Chinese, Italian",Virgin Mojito,Whiskey Sour,Occasionally,3,904.0,Yes,"Swiggy Ads, Google Search, Zomato",High Price
+994,48,Male,Hyderabad,<₹20k,Mexican,Fruit Fizz,Rum Punch,Frequently,4,719.0,Yes,"Google Search, Swiggy Ads, Instagram","Late Delivery, None"
+995,53,Female,Mumbai,₹80k+,"Italian, Continental, Mexican",Virgin Mojito,Whiskey Sour,Rarely,1,1074.0,No,"Friend Referral, Zomato, Swiggy Ads",Small Portion
+996,41,Male,Bangalore,₹40k–60k,"Continental, Chinese, Indian",Spicy Guava,Gin & Tonic,Rarely,5,1087.0,Yes,"Swiggy Ads, Friend Referral, Zomato","Late Delivery, Wrong Order"
+997,32,Male,Chennai,₹20k–40k,"Indian, Thai, Continental",Spicy Guava,Margarita,Frequently,4,820.0,Yes,"Friend Referral, Google Search",High Price
+998,46,Other,Bangalore,₹40k–60k,"Italian, Chinese, Thai",Spicy Guava,Rum Punch,Frequently,5,836.0,Yes,"Zomato, Instagram","Wrong Order, Late Delivery"
+999,25,Other,Mumbai,₹40k–60k,Chinese,Virgin Mojito,Gin & Tonic,Rarely,3,863.0,Yes,"Instagram, Friend Referral",None
+1000,22,Other,Bangalore,₹20k–40k,"Indian, Chinese, Thai",Minty Lime,Gin & Tonic,Frequently,1,767.0,Yes,"Friend Referral, Google Search","None, High Price"
