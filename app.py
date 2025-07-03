@@ -20,7 +20,7 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("balancebite_survey_synthetic_1000.csv")  # Or your full filename
+    df = pd.read_csv("synthetic_balancedbite_data.csv")  # Or your full filename
     return df
 
 
