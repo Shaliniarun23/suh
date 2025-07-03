@@ -25,9 +25,9 @@ def load_data():
 
 
 
-df = load_data()
-st.set_page_config(layout="wide")
-st.title("🍽️ Balancebite – End-to-End Analytics Dashboard")
+def load_data():
+    df = pd.read_csv("synthetic_balancedbite_data.csv")
+    return df
 
 tabs = st.tabs(["📊 Data Visualization", "🤖 Classification", "🔍 Clustering", "🔗 Association Rules", "📈 Regression"])
 
