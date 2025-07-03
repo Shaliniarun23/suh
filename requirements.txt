@@ -1,11 +1,8 @@
-## ✅ `requirements.txt`
-
-```txt
 streamlit
 pandas
 numpy
 matplotlib
+seaborn
 scikit-learn
 plotly
-seaborn
 mlxtend
